@@ -1,0 +1,1429 @@
+,Survived,Pclass,Passenger class,Name,Sex,Age,Embarked,Count
+0,Perished,3,3.0,"Braund, Mr. Owen Harris",male,22.0,Southampton,1
+1,Survived,1,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,Cherbourg,1
+2,Survived,3,3.0,"Heikkinen, Miss. Laina",female,26.0,Southampton,1
+3,Survived,1,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,Southampton,1
+4,Perished,3,3.0,"Allen, Mr. William Henry",male,35.0,Southampton,1
+5,Perished,1,1.0,"McCarthy, Mr. Timothy J",male,54.0,Southampton,1
+6,Perished,3,3.0,"Palsson, Master. Gosta Leonard",male,2.0,Southampton,1
+7,Survived,3,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,Southampton,1
+8,Survived,2,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,Cherbourg,1
+9,Survived,3,3.0,"Sandstrom, Miss. Marguerite Rut",female,4.0,Southampton,1
+10,Survived,1,1.0,"Bonnell, Miss. Elizabeth",female,58.0,Southampton,1
+11,Perished,3,3.0,"Saundercock, Mr. William Henry",male,20.0,Southampton,1
+12,Perished,3,3.0,"Andersson, Mr. Anders Johan",male,39.0,Southampton,1
+13,Perished,3,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,Southampton,1
+14,Survived,2,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,Southampton,1
+15,Perished,3,3.0300000000000002,"Rice, Master. Eugene",male,2.0,Queesntown,1
+16,Perished,3,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,Southampton,1
+17,Perished,2,2.0,"Fynney, Mr. Joseph J",male,35.0,Southampton,1
+18,Survived,2,2.0,"Beesley, Mr. Lawrence",male,34.0,Southampton,1
+19,Survived,3,3.0,"McGowan, Miss. Anna ""Annie""",female,15.0,Queesntown,1
+20,Survived,1,1.0,"Sloper, Mr. William Thompson",male,28.0,Southampton,1
+21,Perished,3,3.0,"Palsson, Miss. Torborg Danira",female,8.0,Southampton,1
+22,Survived,3,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,Southampton,1
+23,Perished,1,1.0,"Fortune, Mr. Charles Alexander",male,19.0,Southampton,1
+24,Perished,1,1.0,"Uruchurtu, Don. Manuel E",male,40.0,Cherbourg,1
+25,Perished,2,2.0,"Wheadon, Mr. Edward H",male,66.0,Southampton,1
+26,Perished,1,1.0266666666666666,"Meyer, Mr. Edgar Joseph",male,28.0,Cherbourg,1
+27,Perished,1,1.0,"Holverson, Mr. Alexander Oskar",male,42.0,Southampton,1
+28,Perished,3,3.0,"Cann, Mr. Ernest Charles",male,21.0,Southampton,1
+29,Perished,3,3.0,"Vander Planke, Miss. Augusta Maria",female,18.0,Southampton,1
+30,Survived,3,3.04,"Nicola-Yarred, Miss. Jamila",female,14.0,Cherbourg,1
+31,Perished,3,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,Southampton,1
+32,Perished,2,2.0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,Southampton,1
+33,Survived,2,2.0,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,Cherbourg,1
+34,Survived,3,3.0,"Devaney, Miss. Margaret Delia",female,19.0,Queesntown,1
+35,Perished,3,3.0228571428571427,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,Southampton,1
+36,Perished,3,3.0,"Panula, Master. Juha Niilo",male,7.0,Southampton,1
+37,Perished,3,3.0216666666666665,"Nosworthy, Mr. Richard Cater",male,21.0,Southampton,1
+38,Survived,1,1.0,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,Cherbourg,1
+39,Survived,2,2.0,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,Southampton,1
+40,Perished,1,1.0,"Ostby, Mr. Engelhart Cornelius",male,65.0,Cherbourg,1
+41,Survived,2,2.0,"Rugg, Miss. Emily",female,21.0,Southampton,1
+42,Perished,3,3.0,"Novel, Mr. Mansouer",male,28.5,Cherbourg,1
+43,Survived,2,2.0,"West, Miss. Constance Mirium",female,5.0,Southampton,1
+44,Perished,3,3.0,"Goodwin, Master. William Frederick",male,11.0,Southampton,1
+45,Perished,3,3.0215384615384617,"Sirayanian, Mr. Orsen",male,22.0,Cherbourg,1
+46,Survived,1,1.03,"Icard, Miss. Amelie",female,38.0,,1
+47,Perished,1,1.0,"Harris, Mr. Henry Birkhardt",male,45.0,Southampton,1
+48,Perished,3,3.0,"Skoog, Master. Harald",male,4.0,Southampton,1
+49,Survived,2,2.0300000000000002,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,Southampton,1
+50,Perished,3,3.0,"Crease, Mr. Ernest James",male,19.0,Southampton,1
+51,Survived,3,3.0,"Andersson, Miss. Erna Alexandra",female,17.0,Southampton,1
+52,Perished,3,3.0,"Kink, Mr. Vincenz",male,26.0,Southampton,1
+53,Perished,2,2.0,"Jenkin, Mr. Stephen Curnow",male,32.0,Southampton,1
+54,Perished,3,3.0,"Goodwin, Miss. Lillian Amy",female,16.0,Southampton,1
+55,Perished,2,2.0,"Hood, Mr. Ambrose Jr",male,21.0,Southampton,1
+56,Perished,3,3.0220000000000002,"Chronopoulos, Mr. Apostolos",male,26.0,Cherbourg,1
+57,Survived,3,3.0,"Bing, Mr. Lee",male,32.0,Southampton,1
+58,Perished,3,3.0,"Moen, Mr. Sigurd Hansen",male,25.0,Southampton,1
+59,Survived,2,2.0,"Caldwell, Master. Alden Gates",male,0.83,Southampton,1
+60,Survived,3,3.0,"Dowdell, Miss. Elizabeth",female,30.0,Southampton,1
+61,Perished,3,3.043076923076923,"Waelens, Mr. Achille",male,22.0,Southampton,1
+62,Survived,3,3.0,"Sheerlinck, Mr. Jan Baptist",male,29.0,Southampton,1
+63,Perished,1,1.0533333333333335,"Carrau, Mr. Francisco M",male,28.0,Southampton,1
+64,Survived,2,2.0,"Ilett, Miss. Bertha",female,17.0,Southampton,1
+65,Survived,3,3.0,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,Southampton,1
+66,Perished,3,3.0,"Ford, Mr. William Neal",male,16.0,Southampton,1
+67,Survived,1,1.0,"Fortune, Miss. Mabel Helen",female,23.0,Southampton,1
+68,Perished,3,3.0,"Celotti, Mr. Francesco",male,24.0,Southampton,1
+69,Perished,3,3.0228571428571427,"Christmann, Mr. Emil",male,29.0,Southampton,1
+70,Perished,3,3.0216666666666665,"Andreasson, Mr. Paul Edvin",male,20.0,Southampton,1
+71,Perished,1,1.0,"Chaffee, Mr. Herbert Fuller",male,46.0,Southampton,1
+72,Perished,3,3.044,"Dean, Mr. Bertram Frank",male,26.0,Southampton,1
+73,Perished,3,3.0,"Coxon, Mr. Daniel",male,59.0,Southampton,1
+74,Perished,1,1.0,"Goldschmidt, Mr. George B",male,71.0,Cherbourg,1
+75,Survived,1,1.0,"Greenfield, Mr. William Bertram",male,23.0,Cherbourg,1
+76,Survived,2,2.0,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,Southampton,1
+77,Perished,2,2.024,"Kantor, Mr. Sinai",male,34.0,Southampton,1
+78,Perished,3,3.0,"Petranec, Miss. Matilda",female,28.0,Southampton,1
+79,Perished,1,1.0,"White, Mr. Richard Frasar",male,21.0,Southampton,1
+80,Perished,3,3.0,"Johansson, Mr. Gustaf Joel",male,33.0,Southampton,1
+81,Perished,3,3.0,"Gustafsson, Mr. Anders Vilhelm",male,37.0,Southampton,1
+82,Perished,3,3.0,"Mionoff, Mr. Stoytcho",male,28.0,Southampton,1
+83,Survived,3,3.0,"Salkjelsvik, Miss. Anna Kristine",female,21.0,Southampton,1
+84,Perished,3,3.0,"Rekic, Mr. Tido",male,38.0,Southampton,1
+85,Perished,1,1.0,"Porter, Mr. Walter Chamberlain",male,47.0,Southampton,1
+86,Perished,3,3.0,"Zabour, Miss. Hileni",female,14.5,Cherbourg,1
+87,Perished,3,3.0646153846153847,"Barton, Mr. David John",male,22.0,Southampton,1
+88,Perished,3,3.0,"Jussila, Miss. Katriina",female,20.0,Southampton,1
+89,Perished,3,3.04,"Attalah, Miss. Malake",female,17.0,Cherbourg,1
+90,Perished,3,3.0433333333333334,"Pekoniemi, Mr. Edvard",male,21.0,Southampton,1
+91,Perished,3,3.0,"Connors, Mr. Patrick",male,70.5,Queesntown,1
+92,Perished,2,2.0,"Turpin, Mr. William John Robert",male,29.0,Southampton,1
+93,Perished,1,1.0,"Baxter, Mr. Quigg Edmond",male,24.0,Cherbourg,1
+94,Perished,3,3.0,"Andersson, Miss. Ellis Anna Maria",female,2.0,Southampton,1
+95,Perished,2,2.0300000000000002,"Hickman, Mr. Stanley George",male,21.0,Southampton,1
+96,Perished,2,2.0,"Nasser, Mr. Nicholas",male,32.5,Cherbourg,1
+97,Survived,2,2.0,"Webber, Miss. Susan",female,32.5,Southampton,1
+98,Perished,1,1.04,"White, Mr. Percival Wayland",male,54.0,Southampton,1
+99,Survived,3,3.0,"Nicola-Yarred, Master. Elias",male,12.0,Cherbourg,1
+100,Survived,3,3.0225,"Madsen, Mr. Fridtjof Arne",male,24.0,Southampton,1
+101,Perished,3,3.0,"Ekstrom, Mr. Johan",male,45.0,Southampton,1
+102,Perished,3,3.0233333333333334,"Drazenoic, Mr. Jozef",male,33.0,Cherbourg,1
+103,Perished,3,3.0433333333333334,"Coelho, Mr. Domingos Fernandeo",male,20.0,Southampton,1
+104,Perished,3,3.0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,Southampton,1
+105,Survived,2,2.06,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,Southampton,1
+106,Perished,2,2.0,"Sobey, Mr. Samuel James Hayden",male,25.0,Southampton,1
+107,Perished,2,2.0,"Richard, Mr. Emile",male,23.0,Cherbourg,1
+108,Survived,1,1.0,"Newsom, Miss. Helen Monypeny",female,19.0,Southampton,1
+109,Perished,1,1.0,"Futrelle, Mr. Jacques Heath",male,37.0,Southampton,1
+110,Perished,3,3.0225,"Osen, Mr. Olaf Elon",male,16.0,Southampton,1
+111,Perished,1,1.04,"Giglio, Mr. Victor",male,24.0,Cherbourg,1
+112,Survived,3,3.0,"Nysten, Miss. Anna Sofia",female,22.0,Southampton,1
+113,Survived,3,3.0,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,Southampton,1
+114,Perished,3,3.021818181818182,"Burke, Mr. Jeremiah",male,19.0,Queesntown,1
+115,Perished,2,2.0,"Andrew, Mr. Edgardo Samuel",male,18.0,Southampton,1
+116,Perished,2,2.0,"Nicholls, Mr. Joseph Charles",male,19.0,Southampton,1
+117,Survived,3,3.0,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,Southampton,1
+118,Perished,3,3.0,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,Southampton,1
+119,Perished,2,2.0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,Southampton,1
+120,Perished,2,2.0,"Byles, Rev. Thomas Roussel Davids",male,42.0,Southampton,1
+121,Perished,2,2.0,"Bateman, Rev. Robert James",male,51.0,Southampton,1
+122,Survived,1,1.0,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,Southampton,1
+123,Perished,3,3.0,"Meo, Mr. Alfonzo",male,55.5,Southampton,1
+124,Perished,3,3.0,"van Billiard, Mr. Austin Blyler",male,40.5,Southampton,1
+125,Perished,1,1.0,"Williams, Mr. Charles Duane",male,51.0,Cherbourg,1
+126,Survived,3,3.0300000000000002,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,Queesntown,1
+127,Perished,3,3.0,"Corn, Mr. Harry",male,30.0,Southampton,1
+128,Perished,3,3.0,"Cribb, Mr. John Hatfield",male,44.0,Southampton,1
+129,Survived,2,2.0,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,Southampton,1
+130,Perished,3,3.066,"Bengtsson, Mr. John Viktor",male,26.0,Southampton,1
+131,Perished,3,3.0,"Calic, Mr. Jovo",male,17.0,Southampton,1
+132,Perished,3,3.0,"Panula, Master. Eino Viljami",male,1.0,Southampton,1
+133,Survived,3,3.0,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,Southampton,1
+134,Perished,3,3.0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,Southampton,1
+135,Perished,3,3.022222222222222,"Ling, Mr. Lee",male,28.0,Southampton,1
+136,Perished,1,1.0,"Van der hoef, Mr. Wyckoff",male,61.0,Southampton,1
+137,Perished,3,3.026666666666667,"Rice, Master. Arthur",male,4.0,Queesntown,1
+138,Survived,3,3.0,"Johnson, Miss. Eleanor Ileen",female,1.0,Southampton,1
+139,Perished,3,3.065,"Sivola, Mr. Antti Wilhelm",male,21.0,Southampton,1
+140,Perished,1,1.0,"Smith, Mr. James Clinch",male,56.0,Cherbourg,1
+141,Perished,3,3.0,"Klasen, Mr. Klas Albin",male,18.0,Southampton,1
+142,Perished,1,1.0,"Isham, Miss. Ann Elizabeth",female,50.0,Cherbourg,1
+143,Perished,2,2.0,"Hale, Mr. Reginald",male,30.0,Southampton,1
+144,Perished,3,3.0,"Leonard, Mr. Lionel",male,36.0,Southampton,1
+145,Perished,3,3.026666666666667,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,Southampton,1
+146,Survived,2,2.0,"Becker, Master. Richard F",male,1.0,Southampton,1
+147,Survived,3,3.0300000000000002,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,Southampton,1
+148,Survived,1,1.0266666666666666,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,Southampton,1
+149,Perished,3,3.0,"Bourke, Mr. John",male,40.0,Queesntown,1
+150,Perished,3,3.025,"Turcin, Mr. Stjepan",male,36.0,Southampton,1
+151,Survived,2,2.0,"Pinsky, Mrs. (Rosa)",female,32.0,Southampton,1
+152,Perished,2,2.026666666666667,"Carbines, Mr. William",male,19.0,Southampton,1
+153,Survived,3,3.04,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,Southampton,1
+154,Survived,2,2.0,"Navratil, Master. Michel M",male,3.0,Southampton,1
+155,Survived,1,1.0,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,Cherbourg,1
+156,Survived,1,1.03,"Lurette, Miss. Elise",female,58.0,Cherbourg,1
+157,Perished,3,3.0,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,Southampton,1
+158,Perished,2,2.0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,Southampton,1
+159,Perished,3,3.0444444444444443,"Vande Walle, Mr. Nestor Cyriel",male,28.0,Southampton,1
+160,Perished,3,3.0,"Johanson, Mr. Jakob Alfred",male,34.0,Southampton,1
+161,Perished,3,3.0,"Youseff, Mr. Gerious",male,45.5,Cherbourg,1
+162,Survived,3,3.0228571428571427,"Cohen, Mr. Gurshon ""Gus""",male,18.0,Southampton,1
+163,Perished,3,3.026666666666667,"Strom, Miss. Telma Matilda",female,2.0,Southampton,1
+164,Perished,3,3.0220000000000002,"Backstrom, Mr. Karl Alfred",male,32.0,Southampton,1
+165,Survived,3,3.088,"Albimona, Mr. Nassef Cassem",male,26.0,Cherbourg,1
+166,Survived,3,3.06,"Carr, Miss. Helen ""Ellen""",female,16.0,Queesntown,1
+167,Survived,1,1.03,"Blank, Mr. Henry",male,40.0,Cherbourg,1
+168,Perished,3,3.045,"Ali, Mr. Ahmed",male,24.0,Southampton,1
+169,Survived,2,2.0,"Cameron, Miss. Clear Annie",female,35.0,Southampton,1
+170,Perished,3,3.086153846153846,"Perkin, Mr. John Henry",male,22.0,Southampton,1
+171,Perished,2,2.025,"Givard, Mr. Hans Kristensen",male,30.0,Southampton,1
+172,Survived,1,1.0,"Newell, Miss. Madeleine",female,31.0,Cherbourg,1
+173,Survived,3,3.0300000000000002,"Honkanen, Miss. Eliina",female,27.0,Southampton,1
+174,Perished,2,2.0300000000000002,"Jacobsohn, Mr. Sidney Samuel",male,42.0,Southampton,1
+175,Survived,1,1.0,"Bazzani, Miss. Albina",female,32.0,Cherbourg,1
+176,Perished,2,2.05,"Harris, Mr. Walter",male,30.0,Southampton,1
+177,Survived,3,3.045,"Sunderland, Mr. Victor Francis",male,16.0,Southampton,1
+178,Perished,2,2.0,"Bracken, Mr. James H",male,27.0,Southampton,1
+179,Perished,3,3.0,"Green, Mr. George Henry",male,51.0,Southampton,1
+180,Survived,1,1.0,"Hoyt, Mr. Frederick Maxfield",male,38.0,Southampton,1
+181,Perished,3,3.1076923076923078,"Berglund, Mr. Karl Ivar Sven",male,22.0,Southampton,1
+182,Survived,2,2.0533333333333332,"Mellors, Mr. William John",male,19.0,Southampton,1
+183,Perished,3,3.0,"Lovell, Mr. John Hall (""Henry"")",male,20.5,Southampton,1
+184,Perished,2,2.026666666666667,"Fahlstrom, Mr. Arne Jonas",male,18.0,Southampton,1
+185,Survived,1,1.024,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,Southampton,1
+186,Perished,3,3.045714285714286,"Larsson, Mr. Bengt Edvin",male,29.0,Southampton,1
+187,Perished,2,2.0,"Sjostedt, Mr. Ernst Adolf",male,59.0,Southampton,1
+188,Survived,3,3.0,"Asplund, Miss. Lillian Gertrud",female,5.0,Southampton,1
+189,Perished,2,2.0,"Leyson, Mr. Robert William Norman",male,24.0,Southampton,1
+190,Perished,2,2.0,"Hold, Mr. Stephen",male,44.0,Southampton,1
+191,Survived,2,2.0,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,Southampton,1
+192,Perished,2,2.08,"Pengelly, Mr. Frederick William",male,19.0,Southampton,1
+193,Perished,2,2.0,"Hunt, Mr. George Henry",male,33.0,Southampton,1
+194,Perished,2,2.0300000000000002,"Coleridge, Mr. Reginald Charles",male,29.0,Southampton,1
+195,Perished,3,3.1292307692307695,"Maenpaa, Mr. Matti Alexanteri",male,22.0,Southampton,1
+196,Perished,3,3.0228571428571427,"Attalah, Mr. Sleiman",male,30.0,Cherbourg,1
+197,Perished,1,1.0,"Minahan, Dr. William Edward",male,44.0,Queesntown,1
+198,Perished,3,3.0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,Southampton,1
+199,Survived,2,2.0233333333333334,"Hamalainen, Mrs. William (Anna)",female,24.0,Southampton,1
+200,Survived,1,1.03,"Beckwith, Mr. Richard Leonard",male,37.0,Southampton,1
+201,Perished,2,2.0,"Carter, Rev. Ernest Courtenay",male,54.0,Southampton,1
+202,Perished,3,3.0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,Southampton,1
+203,Perished,1,1.0,"Stead, Mr. William Thomas",male,62.0,Southampton,1
+204,Perished,3,3.045714285714286,"Lobb, Mr. William Arthur",male,30.0,Southampton,1
+205,Perished,3,3.0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,Southampton,1
+206,Survived,3,3.0300000000000002,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,Cherbourg,1
+207,Survived,1,1.0,"Cherry, Miss. Gladys",female,30.0,Southampton,1
+208,Survived,1,1.048,"Ward, Miss. Anna",female,35.0,Cherbourg,1
+209,Survived,2,2.0,"Parrish, Mrs. (Lutie Davis)",female,50.0,Southampton,1
+210,Survived,3,3.0,"Asplund, Master. Edvin Rojj Felix",male,3.0,Southampton,1
+211,Perished,1,1.0,"Taussig, Mr. Emil",male,52.0,Southampton,1
+212,Perished,1,1.06,"Harrison, Mr. William",male,40.0,Southampton,1
+213,Perished,2,2.0,"Reeves, Mr. David",male,36.0,Southampton,1
+214,Perished,3,3.0675,"Panula, Mr. Ernesti Arvid",male,16.0,Southampton,1
+215,Survived,3,3.0220000000000002,"Persson, Mr. Ernst Ulrik",male,25.0,Southampton,1
+216,Survived,1,1.06,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,Southampton,1
+217,Survived,1,1.072,"Bissette, Miss. Amelia",female,35.0,Southampton,1
+218,Survived,3,3.044,"Tornquist, Mr. William Henry",male,25.0,Southampton,1
+219,Survived,2,2.0,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,Southampton,1
+220,Perished,1,1.06,"Natsch, Mr. Charles H",male,37.0,Cherbourg,1
+221,Survived,1,1.0,"Andrews, Miss. Kornelia Theodosia",female,63.0,Southampton,1
+222,Perished,3,3.0300000000000002,"Lindblom, Miss. Augusta Charlotta",female,45.0,Southampton,1
+223,Perished,3,3.04,"Rice, Master. Eric",male,7.0,Queesntown,1
+224,Survived,3,3.0,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,Southampton,1
+225,Perished,3,3.0,"Duane, Mr. Frank",male,65.0,Queesntown,1
+226,Perished,3,3.066666666666667,"Olsson, Mr. Nils Johan Goransson",male,28.0,Southampton,1
+227,Perished,3,3.09,"de Pelsmaeker, Mr. Alfons",male,16.0,Southampton,1
+228,Survived,3,3.0436363636363635,"Dorking, Mr. Edward Arthur",male,19.0,Southampton,1
+229,Perished,3,3.046666666666667,"Stankovic, Mr. Ivan",male,33.0,Cherbourg,1
+230,Survived,3,3.0685714285714285,"de Mulder, Mr. Theodore",male,30.0,Southampton,1
+231,Perished,3,3.1507692307692308,"Naidenoff, Mr. Penko",male,22.0,Southampton,1
+232,Survived,2,2.06,"Hosono, Mr. Masabumi",male,42.0,Southampton,1
+233,Survived,3,3.024,"Connolly, Miss. Kate",female,22.0,Queesntown,1
+234,Survived,1,1.0,"Barber, Miss. Ellen ""Nellie""",female,26.0,Southampton,1
+235,Survived,1,1.03,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,Cherbourg,1
+236,Perished,2,2.026666666666667,"Levy, Mr. Rene Jacques",male,36.0,Cherbourg,1
+237,Perished,3,3.026666666666667,"Haas, Miss. Aloisia",female,24.0,Southampton,1
+238,Perished,3,3.0675,"Mineff, Mr. Ivan",male,24.0,Southampton,1
+239,Perished,3,3.0,"Hanna, Mr. Mansour",male,23.5,Cherbourg,1
+240,Perished,1,1.0,"Allison, Miss. Helen Loraine",female,2.0,Southampton,1
+241,Survived,1,1.04,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,Cherbourg,1
+242,Perished,3,3.0654545454545454,"Johnson, Mr. William Cahoone Jr",male,19.0,Southampton,1
+243,Survived,1,1.0,"Allison, Master. Hudson Trevor",male,0.92,Southampton,1
+244,Survived,1,1.0,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,Cherbourg,1
+245,Perished,2,2.075,"Abelson, Mr. Samuel",male,30.0,Cherbourg,1
+246,Survived,1,1.025,"Francatelli, Miss. Laura Mabel",female,30.0,Cherbourg,1
+247,Survived,1,1.0,"Hays, Miss. Margaret Bechstein",female,24.0,Cherbourg,1
+248,Survived,1,1.0,"Ryerson, Miss. Emily Borie",female,18.0,Cherbourg,1
+249,Perished,2,2.0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,Southampton,1
+250,Perished,3,3.088888888888889,"Hendekovic, Mr. Ignjac",male,28.0,Southampton,1
+251,Perished,2,2.0,"Hart, Mr. Benjamin",male,43.0,Southampton,1
+252,Survived,3,3.0300000000000002,"Nilsson, Miss. Helmina Josefina",female,26.0,Southampton,1
+253,Survived,2,2.046666666666667,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,Southampton,1
+254,Perished,2,2.0300000000000002,"Moraweck, Dr. Ernest",male,54.0,Southampton,1
+255,Survived,1,1.04,"Wick, Miss. Mary Natalie",female,31.0,Southampton,1
+256,Survived,1,1.0,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,Cherbourg,1
+257,Perished,3,3.1723076923076925,"Dennis, Mr. Samuel",male,22.0,Southampton,1
+258,Perished,3,3.025,"Danoff, Mr. Yoto",male,27.0,Southampton,1
+259,Survived,2,2.0,"Slayter, Miss. Hilda Mary",female,30.0,Queesntown,1
+260,Survived,2,2.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,Southampton,1
+261,Survived,1,1.0,"Young, Miss. Marie Grice",female,36.0,Cherbourg,1
+262,Perished,3,3.0,"Nysveen, Mr. Johan Hansen",male,61.0,Southampton,1
+263,Survived,2,2.0,"Ball, Mrs. (Ada E Hall)",female,36.0,Southampton,1
+264,Survived,3,3.026666666666667,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,Southampton,1
+265,Survived,1,1.0,"Hippach, Miss. Jean Gertrude",female,16.0,Cherbourg,1
+266,Perished,1,1.0,"Partner, Mr. Austen",male,45.5,Southampton,1
+267,Perished,1,1.03,"Graham, Mr. George Edward",male,38.0,Southampton,1
+268,Perished,3,3.1125000000000003,"Vander Planke, Mr. Leo Edmondus",male,16.0,Southampton,1
+269,Perished,1,1.0,"Pears, Mr. Thomas Clinton",male,29.0,Southampton,1
+270,Survived,1,1.0,"Burns, Miss. Elizabeth Margaret",female,41.0,Cherbourg,1
+271,Survived,3,3.04,"Dahl, Mr. Karl Edwart",male,45.0,Southampton,1
+272,Perished,1,1.0533333333333335,"Blackwell, Mr. Stephen Weart",male,45.0,Southampton,1
+273,Survived,2,2.0,"Navratil, Master. Edmond Roger",male,2.0,Southampton,1
+274,Survived,1,1.025,"Fortune, Miss. Alice Elizabeth",female,24.0,Southampton,1
+275,Perished,2,2.0,"Collander, Mr. Erik Gustaf",male,28.0,Southampton,1
+276,Perished,2,2.025,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,Southampton,1
+277,Perished,2,2.0533333333333332,"Fox, Mr. Stanley Hubert",male,36.0,Southampton,1
+278,Survived,2,2.0700000000000003,"Brown, Miss. Amelia ""Mildred""",female,24.0,Southampton,1
+279,Survived,2,2.0300000000000002,"Smith, Miss. Marion Elsie",female,40.0,Southampton,1
+280,Survived,3,3.04,"Coutts, Master. William Loch ""William""",male,3.0,Southampton,1
+281,Perished,3,3.026666666666667,"Dimic, Mr. Jovan",male,42.0,Southampton,1
+282,Perished,3,3.0,"Odahl, Mr. Nils Martin",male,23.0,Southampton,1
+283,Perished,3,3.0,"Elias, Mr. Tannous",male,15.0,Cherbourg,1
+284,Perished,3,3.066,"Arnold-Franchi, Mr. Josef",male,25.0,Southampton,1
+285,Perished,3,3.111111111111111,"Vanden Steen, Mr. Leo Peter",male,28.0,Southampton,1
+286,Survived,1,1.0266666666666666,"Bowerman, Miss. Elsie Edith",female,22.0,Southampton,1
+287,Perished,2,2.0,"Funk, Miss. Annie Clemmer",female,38.0,Southampton,1
+288,Perished,3,3.026666666666667,"Skoog, Mr. Wilhelm",male,40.0,Southampton,1
+289,Perished,2,2.06,"del Carlo, Mr. Sebastiano",male,29.0,Cherbourg,1
+290,Perished,3,3.06,"Barbara, Mrs. (Catherine David)",female,45.0,Cherbourg,1
+291,Perished,3,3.025,"Asim, Mr. Adola",male,35.0,Southampton,1
+292,Perished,3,3.0914285714285716,"Adahl, Mr. Mauritz Nils Martin",male,30.0,Southampton,1
+293,Survived,1,1.0,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,Cherbourg,1
+294,Survived,1,1.05,"Aubart, Mme. Leontine Pauline",female,24.0,Cherbourg,1
+295,Survived,1,1.0,"Harder, Mr. George Achilles",male,25.0,Cherbourg,1
+296,Perished,3,3.045714285714286,"Wiklund, Mr. Jakob Alfred",male,18.0,Southampton,1
+297,Perished,3,3.0872727272727274,"Beavan, Mr. William Thomas",male,19.0,Southampton,1
+298,Perished,1,1.0,"Ringhini, Mr. Sante",male,22.0,Cherbourg,1
+299,Perished,3,3.0,"Palsson, Miss. Stina Viola",female,3.0,Southampton,1
+300,Survived,3,3.048,"Landergren, Miss. Aurora Adelia",female,22.0,Southampton,1
+301,Perished,1,1.0,"Widener, Mr. Harry Elkins",male,27.0,Cherbourg,1
+302,Perished,3,3.065,"Betros, Mr. Tannous",male,20.0,Cherbourg,1
+303,Perished,3,3.1090909090909093,"Gustafsson, Mr. Karl Gideon",male,19.0,Southampton,1
+304,Survived,1,1.0,"Bidois, Miss. Rosalie",female,42.0,Cherbourg,1
+305,Survived,3,3.04,"Nakid, Miss. Maria (""Mary"")",female,1.0,Cherbourg,1
+306,Perished,3,3.044,"Tikkanen, Mr. Juho",male,32.0,Southampton,1
+307,Survived,1,1.096,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,Southampton,1
+308,Perished,2,2.0533333333333332,"Davies, Mr. Charles Henry",male,18.0,Southampton,1
+309,Perished,3,3.0300000000000002,"Goodwin, Master. Sidney Leonard",male,1.0,Southampton,1
+310,Survived,2,2.0300000000000002,"Buss, Miss. Kate",female,36.0,Southampton,1
+311,Survived,2,2.04,"Lehmann, Miss. Bertha",female,17.0,Cherbourg,1
+312,Survived,1,1.0,"Carter, Mr. William Ernest",male,36.0,Southampton,1
+313,Survived,3,3.0866666666666664,"Jansson, Mr. Carl Olof",male,21.0,Southampton,1
+314,Perished,3,3.1333333333333333,"Gustafsson, Mr. Johan Birger",male,28.0,Southampton,1
+315,Survived,1,1.04,"Newell, Miss. Marjorie",female,23.0,Cherbourg,1
+316,Survived,3,3.0533333333333332,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,Southampton,1
+317,Perished,3,3.1938461538461542,"Johansson, Mr. Erik",male,22.0,Southampton,1
+318,Perished,3,3.0533333333333332,"Olsson, Miss. Elina",female,31.0,Southampton,1
+319,Perished,2,2.0,"McKane, Mr. Peter David",male,46.0,Southampton,1
+320,Perished,2,2.024,"Pain, Dr. Alfred",male,23.0,Southampton,1
+321,Survived,2,2.0,"Trout, Mrs. William H (Jessie L)",female,28.0,Southampton,1
+322,Survived,3,3.026666666666667,"Niskanen, Mr. Juha",male,39.0,Southampton,1
+323,Perished,3,3.1100000000000003,"Adams, Mr. John",male,26.0,Southampton,1
+324,Perished,3,3.026666666666667,"Jussila, Miss. Mari Aina",female,21.0,Southampton,1
+325,Perished,3,3.155555555555556,"Hakkarainen, Mr. Pekka Pietari",male,28.0,Southampton,1
+326,Perished,3,3.04,"Oreskovic, Miss. Marija",female,20.0,Southampton,1
+327,Perished,2,2.048,"Gale, Mr. Shadrach",male,34.0,Southampton,1
+328,Perished,3,3.0300000000000002,"Widegren, Mr. Carl/Charles Peter",male,51.0,Southampton,1
+329,Survived,2,2.04,"Richards, Master. William Rowe",male,3.0,Southampton,1
+330,Perished,3,3.1083333333333334,"Birkeland, Mr. Hans Martin Monsen",male,21.0,Southampton,1
+331,Survived,1,1.0,"Minahan, Miss. Daisy E",female,33.0,Queesntown,1
+332,Survived,3,3.026666666666667,"Sundman, Mr. Johan Julian",male,44.0,Southampton,1
+333,Survived,2,2.026666666666667,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,Southampton,1
+334,Survived,2,2.0,"Silven, Miss. Lyyli Karoliina",female,18.0,Southampton,1
+335,Perished,2,2.1,"Matthews, Mr. William John",male,30.0,Southampton,1
+336,Perished,3,3.0,"Van Impe, Miss. Catharina",female,10.0,Southampton,1
+337,Perished,3,3.13,"Charters, Mr. David",male,21.0,Queesntown,1
+338,Perished,3,3.0685714285714285,"Zimmerman, Mr. Leo",male,29.0,Southampton,1
+339,Perished,3,3.04,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,Southampton,1
+340,Perished,3,3.0685714285714285,"Rosblom, Mr. Viktor Richard",male,18.0,Southampton,1
+341,Survived,2,2.025,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,Southampton,1
+342,Survived,2,2.0,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,Southampton,1
+343,Survived,3,3.066,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,Southampton,1
+344,Survived,1,1.08,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,Southampton,1
+345,Survived,2,2.0,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,Southampton,1
+346,Perished,3,3.024,"Kallio, Mr. Nikolai Erland",male,17.0,Southampton,1
+347,Perished,1,1.0,"Silvey, Mr. William Baird",male,50.0,Southampton,1
+348,Survived,1,1.0,"Carter, Miss. Lucile Polk",female,14.0,Southampton,1
+349,Perished,3,3.0533333333333332,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,Southampton,1
+350,Survived,2,2.0933333333333333,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,Southampton,1
+351,Perished,1,1.0,"Fortune, Mr. Mark",male,64.0,Southampton,1
+352,Perished,2,2.0,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,Southampton,1
+353,Survived,2,2.0,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,Southampton,1
+354,Perished,3,3.0866666666666664,"Hampe, Mr. Leon",male,20.0,Southampton,1
+355,Perished,3,3.088,"Petterson, Mr. Johan Emil",male,25.0,Southampton,1
+356,Survived,2,2.05,"Reynaldo, Ms. Encarnacion",female,28.0,Southampton,1
+357,Survived,1,1.0,"Dodge, Master. Washington",male,4.0,Southampton,1
+358,Survived,2,2.0,"Mellinger, Miss. Madeleine Violet",female,13.0,Southampton,1
+359,Survived,1,1.0,"Seward, Mr. Frederic Kimber",male,34.0,Southampton,1
+360,Survived,3,3.0300000000000002,"Baclini, Miss. Marie Catherine",female,5.0,Cherbourg,1
+361,Survived,1,1.04,"Peuchen, Major. Arthur Godfrey",male,52.0,Southampton,1
+362,Perished,2,2.08,"West, Mr. Edwy Arthur",male,36.0,Southampton,1
+363,Perished,1,1.0,"Foreman, Mr. Benjamin Laventall",male,30.0,Cherbourg,1
+364,Survived,1,1.0,"Goldenberg, Mr. Samuel L",male,49.0,Cherbourg,1
+365,Survived,3,3.0914285714285716,"Jalsevac, Mr. Ivan",male,29.0,Cherbourg,1
+366,Perished,1,1.04,"Millet, Mr. Francis Davis",male,65.0,Southampton,1
+367,Survived,2,2.0300000000000002,"Toomey, Miss. Ellen",female,50.0,Southampton,1
+368,Survived,1,1.0,"Anderson, Mr. Harry",male,48.0,Southampton,1
+369,Perished,3,3.026666666666667,"Morley, Mr. William",male,34.0,Southampton,1
+370,Perished,1,1.0266666666666666,"Gee, Mr. Arthur H",male,47.0,Southampton,1
+371,Perished,2,2.0,"Milling, Mr. Jacob Christian",male,48.0,Southampton,1
+372,Perished,3,3.0300000000000002,"Goncalves, Mr. Manuel Estanslas",male,38.0,Southampton,1
+373,Perished,1,1.03,"Smart, Mr. John Montgomery",male,56.0,Southampton,1
+374,Survived,3,3.0,"Baclini, Miss. Helene Barbara",female,0.75,Cherbourg,1
+375,Perished,3,3.06,"Cacic, Mr. Luka",male,38.0,Southampton,1
+376,Survived,2,2.0,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,Southampton,1
+377,Survived,2,2.0,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,Cherbourg,1
+378,Perished,3,3.072,"Strandberg, Miss. Ida Sofia",female,22.0,Southampton,1
+379,Perished,2,2.072,"Renouf, Mr. Peter Henry",male,34.0,Southampton,1
+380,Perished,3,3.1142857142857143,"Braund, Mr. Lewis Richard",male,29.0,Southampton,1
+381,Perished,3,3.2153846153846155,"Karlsson, Mr. Nils August",male,22.0,Southampton,1
+382,Survived,3,3.0533333333333332,"Hirvonen, Miss. Hildur E",female,2.0,Southampton,1
+383,Perished,3,3.0533333333333332,"Goodwin, Master. Harold Victor",male,9.0,Southampton,1
+384,Perished,3,3.0,"Rouse, Mr. Richard Henry",male,50.0,Southampton,1
+385,Survived,3,3.0,"Turkula, Mrs. (Hedwig)",female,63.0,Southampton,1
+386,Survived,1,1.04,"Bishop, Mr. Dickinson H",male,25.0,Cherbourg,1
+387,Survived,1,1.12,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,Southampton,1
+388,Perished,1,1.0,"Kent, Mr. Edward Austin",male,58.0,Cherbourg,1
+389,Perished,3,3.1142857142857143,"Somerton, Mr. Francis William",male,30.0,Southampton,1
+390,Survived,3,3.08,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,Southampton,1
+391,Perished,3,3.1516666666666664,"Windelov, Mr. Einar",male,21.0,Southampton,1
+392,Perished,1,1.0,"Molson, Mr. Harry Markland",male,55.0,Southampton,1
+393,Perished,1,1.04,"Artagaveytia, Mr. Ramon",male,71.0,Cherbourg,1
+394,Perished,3,3.1733333333333333,"Stanley, Mr. Edward Roland",male,21.0,Southampton,1
+395,Survived,1,1.0,"Eustis, Miss. Elizabeth Mussey",female,54.0,Cherbourg,1
+396,Perished,1,1.0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,Southampton,1
+397,Perished,3,3.09,"Svensson, Mr. Olof",male,24.0,Southampton,1
+398,Perished,3,3.048,"Calic, Mr. Petar",male,17.0,Southampton,1
+399,Perished,3,3.08,"Canavan, Miss. Mary",female,21.0,Queesntown,1
+400,Perished,3,3.0,"Laitinen, Miss. Kristina Sofia",female,37.0,Southampton,1
+401,Survived,1,1.03,"Maioni, Miss. Roberta",female,16.0,Southampton,1
+402,Perished,1,1.0,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,Cherbourg,1
+403,Survived,2,2.04,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,Southampton,1
+404,Perished,3,3.177777777777778,"Olsen, Mr. Henry Margido",male,28.0,Southampton,1
+405,Survived,3,3.132,"Lang, Mr. Fang",male,26.0,Southampton,1
+406,Survived,3,3.1371428571428575,"Daly, Mr. Eugene Patrick",male,29.0,Queesntown,1
+407,Survived,1,1.024,"McGough, Mr. James Robert",male,36.0,Southampton,1
+408,Survived,1,1.04,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,Cherbourg,1
+409,Perished,3,3.1125000000000003,"Coleff, Mr. Satio",male,24.0,Southampton,1
+410,Perished,1,1.0533333333333335,"Walker, Mr. William Anderson",male,47.0,Southampton,1
+411,Survived,2,2.0533333333333332,"Lemore, Mrs. (Amelia Milley)",female,34.0,Southampton,1
+412,Survived,2,2.06,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,Southampton,1
+413,Perished,3,3.088,"Pavlovic, Mr. Stefo",male,32.0,Southampton,1
+414,Survived,1,1.05,"Perreault, Miss. Anne",female,30.0,Southampton,1
+415,Perished,3,3.2369230769230772,"Vovk, Mr. Janko",male,22.0,Southampton,1
+416,Survived,1,1.04,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,Cherbourg,1
+417,Perished,3,3.04,"Farrell, Mr. James",male,40.5,Queesntown,1
+418,Survived,2,2.06,"Ridsdale, Miss. Lucy",female,50.0,Southampton,1
+419,Perished,3,3.0533333333333332,"Salonen, Mr. Johan Werner",male,39.0,Southampton,1
+420,Perished,2,2.048,"Hocking, Mr. Richard George",male,23.0,Southampton,1
+421,Survived,2,2.0,"Quick, Miss. Phyllis May",female,2.0,Southampton,1
+422,Perished,3,3.072,"Elias, Mr. Joseph Jr",male,17.0,Cherbourg,1
+423,Perished,3,3.0300000000000002,"Cacic, Miss. Marija",female,30.0,Southampton,1
+424,Survived,2,2.0,"Hart, Miss. Eva Miriam",female,7.0,Southampton,1
+425,Perished,1,1.08,"Butt, Major. Archibald Willingham",male,45.0,Southampton,1
+426,Survived,1,1.0750000000000002,"LeRoy, Miss. Bertha",female,30.0,Cherbourg,1
+427,Survived,1,1.0533333333333335,"Frolicher, Miss. Hedwig Margaritha",female,22.0,Cherbourg,1
+428,Survived,1,1.03,"Crosby, Miss. Harriet R",female,36.0,Southampton,1
+429,Perished,3,3.026666666666667,"Andersson, Miss. Ingeborg Constanzia",female,9.0,Southampton,1
+430,Perished,3,3.0,"Andersson, Miss. Sigrid Elisabeth",female,11.0,Southampton,1
+431,Survived,2,2.0300000000000002,"Beane, Mr. Edward",male,32.0,Southampton,1
+432,Perished,1,1.03,"Douglas, Mr. Walter Donald",male,50.0,Cherbourg,1
+433,Perished,1,1.04,"Nicholson, Mr. Arthur Ernest",male,64.0,Southampton,1
+434,Survived,2,2.04,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,Southampton,1
+435,Perished,3,3.0700000000000003,"Goldsmith, Mr. Frank John",male,33.0,Southampton,1
+436,Survived,2,2.0,"Davies, Master. John Morgan Jr",male,8.0,Southampton,1
+437,Survived,1,1.0,"Thayer, Mr. John Borland Jr",male,17.0,Cherbourg,1
+438,Perished,2,2.0300000000000002,"Sharp, Mr. Percival James R",male,27.0,Southampton,1
+439,Survived,3,3.2584615384615385,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,Cherbourg,1
+440,Survived,3,3.096,"Ohman, Miss. Velin",female,22.0,Southampton,1
+441,Perished,1,1.04,"Wright, Mr. George",male,62.0,Southampton,1
+442,Survived,1,1.0,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,Cherbourg,1
+443,Survived,1,1.0,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,Southampton,1
+444,Survived,3,3.0,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,Southampton,1
+445,Perished,3,3.0533333333333332,"Sivic, Mr. Husein",male,40.0,Southampton,1
+446,Perished,2,2.026666666666667,"Norman, Mr. Robert Douglas",male,28.0,Southampton,1
+447,Perished,3,3.1350000000000002,"Davies, Mr. Alfred J",male,24.0,Southampton,1
+448,Perished,3,3.130909090909091,"Stoytcheff, Mr. Ilia",male,19.0,Southampton,1
+449,Perished,3,3.06,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,Southampton,1
+450,Survived,3,3.1100000000000003,"Jonsson, Mr. Carl",male,32.0,Southampton,1
+451,Survived,2,2.0,"Harris, Mr. George",male,62.0,Southampton,1
+452,Survived,1,1.0,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,Southampton,1
+453,Survived,1,1.048,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,Southampton,1
+454,Perished,3,3.1350000000000002,"Rush, Mr. Alfred George John",male,16.0,Southampton,1
+455,Perished,3,3.152727272727273,"Patchett, Mr. George",male,19.0,Southampton,1
+456,Survived,2,2.08,"Garside, Miss. Ethel",female,34.0,Southampton,1
+457,Survived,1,1.0266666666666666,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,Southampton,1
+458,Survived,3,3.132,"Jussila, Mr. Eiriik",male,32.0,Southampton,1
+459,Survived,2,2.0,"Christy, Miss. Julie Rachel",female,25.0,Southampton,1
+460,Survived,1,1.0533333333333335,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,Cherbourg,1
+461,Perished,2,2.06,"Downton, Mr. William James",male,54.0,Southampton,1
+462,Perished,1,1.072,"Ross, Mr. John Hugo",male,36.0,Cherbourg,1
+463,Survived,1,1.03,"Taussig, Miss. Ruth",female,18.0,Southampton,1
+464,Perished,2,2.0,"Jarvis, Mr. John Denzil",male,47.0,Southampton,1
+465,Survived,1,1.0,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,Cherbourg,1
+466,Perished,3,3.2800000000000002,"Gilinski, Mr. Eliezer",male,22.0,Southampton,1
+467,Perished,3,3.05,"Rintamaki, Mr. Matti",male,35.0,Southampton,1
+468,Survived,1,1.0,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,Cherbourg,1
+469,Perished,3,3.0,"Elsbury, Mr. William James",male,47.0,Southampton,1
+470,Perished,2,2.0,"Chapman, Mr. John Henry",male,37.0,Southampton,1
+471,Perished,3,3.05,"Van Impe, Mr. Jean Baptiste",male,36.0,Southampton,1
+472,Perished,3,3.0,"Johnson, Mr. Alfred",male,49.0,Southampton,1
+473,Survived,1,1.03,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,Cherbourg,1
+474,Survived,2,2.1166666666666667,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,Southampton,1
+475,Perished,3,3.0533333333333332,"Torber, Mr. Ernst William",male,44.0,Southampton,1
+476,Survived,1,1.0,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,Cherbourg,1
+477,Perished,3,3.075,"Lindell, Mr. Edvard Bengtsson",male,36.0,Southampton,1
+478,Perished,3,3.1371428571428575,"Karaic, Mr. Milan",male,30.0,Southampton,1
+479,Survived,1,1.0266666666666666,"Daniel, Mr. Robert Williams",male,27.0,Southampton,1
+480,Survived,2,2.04,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,Cherbourg,1
+481,Survived,1,1.04,"Shutes, Miss. Elizabeth W",female,40.0,Southampton,1
+482,Perished,3,3.0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,Southampton,1
+483,Perished,3,3.075,"Brocklebank, Mr. William Alfred",male,35.0,Southampton,1
+484,Survived,2,2.14,"Herman, Miss. Alice",female,24.0,Southampton,1
+485,Perished,3,3.0533333333333332,"Danbom, Mr. Ernst Gilbert",male,34.0,Southampton,1
+486,Perished,3,3.06,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,Southampton,1
+487,Survived,2,2.0,"Becker, Miss. Marion Louise",female,4.0,Southampton,1
+488,Perished,2,2.0,"Gavey, Mr. Lawrence",male,26.0,Southampton,1
+489,Perished,3,3.05,"Yasbeck, Mr. Antoni",male,27.0,Cherbourg,1
+490,Survived,1,1.03,"Kimball, Mr. Edwin Nelson Jr",male,42.0,Southampton,1
+491,Survived,3,3.1083333333333334,"Nakid, Mr. Sahid",male,20.0,Cherbourg,1
+492,Perished,3,3.195,"Hansen, Mr. Henry Damsgaard",male,21.0,Southampton,1
+493,Perished,3,3.2166666666666663,"Bowen, Mr. David John ""Dai""",male,21.0,Southampton,1
+494,Perished,1,1.04,"Sutton, Mr. Frederick",male,61.0,Southampton,1
+495,Perished,2,2.0,"Kirkland, Rev. Charles Leonard",male,57.0,Queesntown,1
+496,Survived,1,1.0,"Longley, Miss. Gretchen Fiske",female,21.0,Southampton,1
+497,Perished,3,3.154,"Bostandyeff, Mr. Guentcho",male,26.0,Southampton,1
+498,Survived,1,1.0,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,Southampton,1
+499,Perished,3,3.06,"Lundahl, Mr. Johan Svensson",male,51.0,Southampton,1
+500,Survived,1,1.0,"Stahelin-Maeglin, Dr. Max",male,32.0,Cherbourg,1
+501,Perished,3,3.0533333333333332,"Skoog, Miss. Mabel",female,9.0,Southampton,1
+502,Survived,2,2.075,"Davis, Miss. Mary",female,28.0,Southampton,1
+503,Perished,3,3.154,"Leinonen, Mr. Antti Gustaf",male,32.0,Southampton,1
+504,Perished,2,2.026666666666667,"Collyer, Mr. Harvey",male,31.0,Southampton,1
+505,Perished,3,3.04,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,Southampton,1
+506,Perished,3,3.13,"Jensen, Mr. Hans Peder",male,20.0,Southampton,1
+507,Survived,1,1.0750000000000002,"Sagesser, Mlle. Emma",female,24.0,Cherbourg,1
+508,Perished,3,3.08,"Skoog, Miss. Margit Elizabeth",female,2.0,Southampton,1
+509,Survived,3,3.04,"Baclini, Miss. Eugenie",female,0.75,Cherbourg,1
+510,Survived,1,1.03,"Harper, Mr. Henry Sleeper",male,48.0,Cherbourg,1
+511,Perished,3,3.174545454545455,"Cor, Mr. Liudevit",male,19.0,Southampton,1
+512,Survived,1,1.06,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,Cherbourg,1
+513,Survived,3,3.0,"Stanley, Miss. Amy Zillah Elsie",female,23.0,Southampton,1
+514,Survived,2,2.04,"Doling, Miss. Elsie",female,18.0,Southampton,1
+515,Perished,3,3.2383333333333333,"Kalvik, Mr. Johannes Halvorsen",male,21.0,Southampton,1
+516,Perished,3,3.045714285714286,"Hegarty, Miss. Hanora ""Nora""",female,18.0,Queesntown,1
+517,Perished,2,2.0300000000000002,"Hickman, Mr. Leonard Mark",male,24.0,Southampton,1
+518,Perished,3,3.0,"Bourke, Mrs. John (Catherine)",female,32.0,Queesntown,1
+519,Perished,2,2.072,"Eitemiller, Mr. George Floyd",male,23.0,Southampton,1
+520,Perished,1,1.04,"Newell, Mr. Arthur Webster",male,58.0,Cherbourg,1
+521,Survived,1,1.06,"Frauenthal, Dr. Henry William",male,50.0,Southampton,1
+522,Perished,3,3.08,"Badt, Mr. Mohamed",male,40.0,Cherbourg,1
+523,Perished,1,1.08,"Colley, Mr. Edward Pomeroy",male,47.0,Southampton,1
+524,Perished,3,3.1,"Coleff, Mr. Peju",male,36.0,Southampton,1
+525,Survived,3,3.1516666666666664,"Lindqvist, Mr. Eino William",male,20.0,Southampton,1
+526,Perished,2,2.06,"Hickman, Mr. Lewis",male,32.0,Southampton,1
+527,Perished,2,2.05,"Butler, Mr. Reginald Fenton",male,25.0,Southampton,1
+528,Perished,3,3.0,"Cook, Mr. Jacob",male,43.0,Southampton,1
+529,Survived,2,2.06,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,Southampton,1
+530,Perished,1,1.0,"Davidson, Mr. Thornton",male,31.0,Southampton,1
+531,Perished,2,2.0,"Mitchell, Mr. Henry Michael",male,70.0,Southampton,1
+532,Survived,2,2.0533333333333332,"Wilhelms, Mr. Charles",male,31.0,Southampton,1
+533,Perished,3,3.0914285714285716,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,Southampton,1
+534,Perished,3,3.0,"Sawyer, Mr. Frederick Charles",male,24.5,Southampton,1
+535,Survived,3,3.0685714285714285,"Turja, Miss. Anna Sofia",female,18.0,Southampton,1
+536,Perished,3,3.0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,Southampton,1
+537,Survived,1,1.096,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,Cherbourg,1
+538,Survived,1,1.0533333333333335,"Hassab, Mr. Hammad",male,27.0,Cherbourg,1
+539,Perished,3,3.1733333333333333,"Olsvigen, Mr. Thor Anderson",male,20.0,Southampton,1
+540,Perished,3,3.0,"Goodwin, Mr. Charles Edward",male,14.0,Southampton,1
+541,Perished,2,2.0,"Brown, Mr. Thomas William Solomon",male,60.0,Southampton,1
+542,Perished,2,2.075,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,Cherbourg,1
+543,Perished,3,3.04,"Panula, Mr. Jaako Arnold",male,14.0,Southampton,1
+544,Perished,3,3.1963636363636367,"Dakic, Mr. Branko",male,19.0,Southampton,1
+545,Perished,3,3.1142857142857143,"Fischer, Mr. Eberhard Thelander",male,18.0,Southampton,1
+546,Survived,1,1.0,"Madill, Miss. Georgette Alexandra",female,15.0,Southampton,1
+547,Survived,1,1.03,"Dick, Mr. Albert Adrian",male,31.0,Southampton,1
+548,Survived,3,3.06,"Karun, Miss. Manca",female,4.0,Cherbourg,1
+549,Perished,3,3.1100000000000003,"Saad, Mr. Khalil",male,25.0,Cherbourg,1
+550,Perished,1,1.04,"Weir, Col. John",male,60.0,Southampton,1
+551,Perished,2,2.0,"Chapman, Mr. Charles Henry",male,52.0,Southampton,1
+552,Perished,3,3.08,"Kelly, Mr. James",male,44.0,Southampton,1
+553,Perished,1,1.06,"Thayer, Mr. John Borland",male,49.0,Cherbourg,1
+554,Perished,3,3.0533333333333332,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,Southampton,1
+555,Survived,1,1.06,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,Cherbourg,1
+556,Survived,1,1.03,"Silverthorne, Mr. Spencer Victor",male,35.0,Southampton,1
+557,Perished,3,3.0914285714285716,"Barbara, Miss. Saiide",female,18.0,Cherbourg,1
+558,Perished,3,3.132,"Gallagher, Mr. Martin",male,25.0,Queesntown,1
+559,Perished,3,3.176,"Hansen, Mr. Henrik Juul",male,26.0,Southampton,1
+560,Perished,2,2.0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,Southampton,1
+561,Survived,2,2.04,"Kelly, Mrs. Florence ""Fannie""",female,45.0,Southampton,1
+562,Survived,1,1.06,"Calderhead, Mr. Edward Pennington",male,42.0,Southampton,1
+563,Survived,1,1.08,"Cleaver, Miss. Alice",female,22.0,Southampton,1
+564,Survived,1,1.1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,Cherbourg,1
+565,Survived,1,1.06,"Taylor, Mr. Elmer Zebley",male,48.0,Southampton,1
+566,Perished,3,3.16,"Larsson, Mr. August Viktor",male,29.0,Southampton,1
+567,Perished,2,2.04,"Greenberg, Mr. Samuel",male,52.0,Southampton,1
+568,Perished,3,3.2181818181818183,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,Southampton,1
+569,Survived,1,1.06,"Endres, Miss. Caroline Louise",female,38.0,Cherbourg,1
+570,Survived,2,2.0300000000000002,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,Southampton,1
+571,Perished,3,3.0933333333333333,"Johnson, Mr. Malkolm Joackim",male,33.0,Southampton,1
+572,Survived,2,2.0,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,Southampton,1
+573,Perished,3,3.096,"Jensen, Mr. Svend Lauritz",male,17.0,Southampton,1
+574,Perished,2,2.096,"Gillespie, Mr. William Henry",male,34.0,Southampton,1
+575,Perished,2,2.0,"Hodges, Mr. Henry Price",male,50.0,Southampton,1
+576,Survived,1,1.08,"Chambers, Mr. Norman Campbell",male,27.0,Southampton,1
+577,Perished,3,3.195,"Oreskovic, Mr. Luka",male,20.0,Southampton,1
+578,Survived,2,2.0300000000000002,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,Southampton,1
+579,Perished,2,2.1,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,Southampton,1
+580,Perished,3,3.04,"Ilmakangas, Miss. Pieta Sofia",female,25.0,Southampton,1
+581,Survived,1,1.0,"Allen, Miss. Elisabeth Walton",female,29.0,Southampton,1
+582,Perished,3,3.04,"Hassan, Mr. Houssein G N",male,11.0,Cherbourg,1
+583,Perished,2,2.096,"Berriman, Mr. William John",male,23.0,Southampton,1
+584,Perished,2,2.12,"Troupiansky, Mr. Moses Aaron",male,23.0,Southampton,1
+585,Perished,3,3.04,"Williams, Mr. Leslie",male,28.5,Southampton,1
+586,Perished,3,3.0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,Southampton,1
+587,Survived,1,1.06,"Lesurer, Mr. Gustave J",male,35.0,Cherbourg,1
+588,Perished,1,1.12,"Cavendish, Mr. Tyrell William",male,36.0,Southampton,1
+589,Survived,1,1.04,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,Cherbourg,1
+590,Perished,3,3.1575,"McNamee, Mr. Neal",male,24.0,Southampton,1
+591,Survived,3,3.0,"Stranden, Mr. Juho",male,31.0,Southampton,1
+592,Perished,1,1.0,"Crosby, Capt. Edward Gifford",male,70.0,Southampton,1
+593,Perished,3,3.1575,"Abbott, Mr. Rossmore Edward",male,16.0,Southampton,1
+594,Survived,2,2.06,"Sinkkonen, Miss. Anna",female,30.0,Southampton,1
+595,Perished,1,1.04,"Marvin, Mr. Daniel Warner",male,19.0,Southampton,1
+596,Perished,3,3.0300000000000002,"Connaghton, Mr. Michael",male,31.0,Queesntown,1
+597,Survived,2,2.04,"Wells, Miss. Joan",female,4.0,Southampton,1
+598,Survived,3,3.0,"Moor, Master. Meier",male,6.0,Southampton,1
+599,Perished,3,3.1166666666666667,"Vande Velde, Mr. Johannes Joseph",male,33.0,Southampton,1
+600,Perished,3,3.0300000000000002,"Jonkoff, Mr. Lalio",male,23.0,Southampton,1
+601,Survived,2,2.0,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,Southampton,1
+602,Survived,2,2.0,"Hamalainen, Master. Viljo",male,0.67,Southampton,1
+603,Perished,3,3.2,"Carlsson, Mr. August Sigfrid",male,28.0,Southampton,1
+604,Perished,2,2.08,"Bailey, Mr. Percy Andrew",male,18.0,Southampton,1
+605,Perished,3,3.08,"Theobald, Mr. Thomas Leonard",male,34.0,Southampton,1
+606,Survived,1,1.03,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,Southampton,1
+607,Perished,3,3.0,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,Southampton,1
+608,Survived,3,3.2166666666666663,"Barah, Mr. Hanna Assi",male,20.0,Cherbourg,1
+609,Survived,1,1.06,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,Southampton,1
+610,Perished,3,3.18,"Eklund, Mr. Hans Linus",male,16.0,Southampton,1
+611,Survived,1,1.0,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,Southampton,1
+612,Perished,3,3.0,"Mangan, Miss. Mary",female,30.5,Queesntown,1
+613,Perished,3,3.176,"Gronnestad, Mr. Daniel Danielsen",male,32.0,Southampton,1
+614,Perished,3,3.18,"Lievens, Mr. Rene Aime",male,24.0,Southampton,1
+615,Perished,3,3.0,"Jensen, Mr. Niels Peder",male,48.0,Southampton,1
+616,Perished,2,2.0,"Mack, Mrs. (Mary)",female,57.0,Southampton,1
+617,Survived,2,2.0,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,Southampton,1
+618,Perished,3,3.1371428571428575,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,Southampton,1
+619,Survived,3,3.06,"Emanuel, Miss. Virginia Ethel",female,5.0,Southampton,1
+620,Survived,1,1.0,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,Southampton,1
+621,Survived,3,3.0,"Ayoub, Miss. Banoura",female,13.0,Cherbourg,1
+622,Survived,1,1.04,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,Southampton,1
+623,Perished,1,1.04,"Long, Mr. Milton Clyde",male,29.0,Southampton,1
+624,Perished,3,3.154,"Ali, Mr. William",male,25.0,Southampton,1
+625,Perished,3,3.176,"Harmer, Mr. Abraham (David Lishin)",male,25.0,Southampton,1
+626,Survived,3,3.1142857142857143,"Sjoblom, Miss. Anna Sofia",female,18.0,Southampton,1
+627,Perished,3,3.0,"Rice, Master. George Hugh",male,8.0,Queesntown,1
+628,Survived,3,3.06,"Dean, Master. Bertram Vere",male,1.0,Southampton,1
+629,Perished,1,1.04,"Guggenheim, Mr. Benjamin",male,46.0,Cherbourg,1
+630,Perished,2,2.0,"Gaskell, Mr. Alfred",male,16.0,Southampton,1
+631,Perished,3,3.1980000000000004,"Dantcheff, Mr. Ristiu",male,25.0,Southampton,1
+632,Perished,2,2.0300000000000002,"Otter, Mr. Richard",male,39.0,Southampton,1
+633,Survived,1,1.04,"Leader, Dr. Alice (Farnham)",female,49.0,Southampton,1
+634,Survived,3,3.08,"Osman, Mrs. Mara",female,31.0,Southampton,1
+635,Perished,3,3.16,"Ibrahim Shawah, Mr. Yousseff",male,30.0,Cherbourg,1
+636,Perished,3,3.06,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,Southampton,1
+637,Perished,2,2.12,"Ponesell, Mr. Martin",male,34.0,Southampton,1
+638,Survived,2,2.0,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,Southampton,1
+639,Survived,1,1.0,"Carter, Master. William Thornton II",male,11.0,Southampton,1
+640,Survived,3,3.0,"Thomas, Master. Assad Alexander",male,0.42,Cherbourg,1
+641,Survived,3,3.075,"Hedman, Mr. Oskar Arvid",male,27.0,Southampton,1
+642,Perished,3,3.06,"Johansson, Mr. Karl Johan",male,31.0,Southampton,1
+643,Perished,1,1.0,"Andrews, Mr. Thomas Jr",male,39.0,Southampton,1
+644,Perished,3,3.1371428571428575,"Pettersson, Miss. Ellen Natalia",female,18.0,Southampton,1
+645,Perished,2,2.06,"Meyer, Mr. August",male,39.0,Southampton,1
+646,Survived,1,1.06,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,Southampton,1
+647,Perished,3,3.1980000000000004,"Alexander, Mr. William",male,26.0,Southampton,1
+648,Perished,3,3.08,"Lester, Mr. James",male,39.0,Southampton,1
+649,Perished,2,2.04,"Slemen, Mr. Richard James",male,35.0,Southampton,1
+650,Perished,3,3.0,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,Southampton,1
+651,Perished,3,3.0,"Tomlin, Mr. Ernest Portage",male,30.5,Southampton,1
+652,Perished,3,3.04,"Heininen, Miss. Wendla Maria",female,23.0,Southampton,1
+653,Perished,2,2.08,"Mallet, Mr. Albert",male,31.0,Cherbourg,1
+654,Perished,3,3.04,"Holm, Mr. John Fredrik Alexander",male,43.0,Southampton,1
+655,Perished,3,3.0,"Skoog, Master. Karl Thorsten",male,10.0,Southampton,1
+656,Survived,1,1.04,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,Southampton,1
+657,Survived,3,3.1,"Lulic, Mr. Nikola",male,27.0,Southampton,1
+658,Perished,1,1.06,"Reuchlin, Jonkheer. John George",male,38.0,Southampton,1
+659,Survived,3,3.06,"Moor, Mrs. (Beila)",female,27.0,Southampton,1
+660,Perished,3,3.06,"Panula, Master. Urho Abraham",male,2.0,Southampton,1
+661,Survived,2,2.04,"Mallet, Master. Andre",male,1.0,Cherbourg,1
+662,Survived,1,1.0,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,,1
+663,Survived,3,3.0300000000000002,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,Cherbourg,1
+664,Survived,2,2.04,"Richards, Master. George Sibley",male,0.83,Southampton,1
+665,Perished,3,3.06,"Augustsson, Mr. Albert",male,23.0,Southampton,1
+666,Perished,3,3.16,"Allum, Mr. Owen George",male,18.0,Southampton,1
+667,Survived,1,1.08,"Compton, Miss. Sara Rebecca",female,39.0,Cherbourg,1
+668,Perished,3,3.26,"Pasic, Mr. Jakob",male,21.0,Southampton,1
+669,Survived,3,3.1980000000000004,"Chip, Mr. Chang",male,32.0,Southampton,1
+670,Perished,3,3.2383333333333333,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,Southampton,1
+671,Perished,2,2.04,"Mudd, Mr. Thomas Charles",male,16.0,Southampton,1
+672,Survived,1,1.1,"Serepeca, Miss. Augusta",female,30.0,Cherbourg,1
+673,Perished,3,3.0,"Lemberopolous, Mr. Peter L",male,34.5,Cherbourg,1
+674,Perished,3,3.12,"Culumovic, Mr. Jeso",male,17.0,Southampton,1
+675,Perished,3,3.08,"Abbing, Mr. Anthony",male,42.0,Southampton,1
+676,Perished,3,3.1,"Markoff, Mr. Marin",male,35.0,Cherbourg,1
+677,Perished,2,2.0533333333333332,"Harper, Rev. John",male,28.0,Southampton,1
+678,Perished,3,3.0533333333333332,"Andersson, Master. Sigvard Harald Elias",male,4.0,Southampton,1
+679,Perished,3,3.0,"Svensson, Mr. Johan",male,74.0,Southampton,1
+680,Perished,3,3.08,"Boulos, Miss. Nourelain",female,9.0,Cherbourg,1
+681,Survived,1,1.06,"Lines, Miss. Mary Conover",female,16.0,Southampton,1
+682,Perished,2,2.0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,Southampton,1
+683,Survived,3,3.16,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,Southampton,1
+684,Survived,1,1.0,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,Southampton,1
+685,Survived,1,1.04,"Daly, Mr. Peter Denis ",male,51.0,Southampton,1
+686,Survived,3,3.08,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,Cherbourg,1
+687,Perished,3,3.04,"Hansen, Mr. Claus Peter",male,41.0,Southampton,1
+688,Perished,2,2.06,"Giles, Mr. Frederick Edward",male,21.0,Southampton,1
+689,Survived,1,1.04,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,Southampton,1
+690,Perished,2,2.06,"Gill, Mr. John William",male,24.0,Southampton,1
+691,Survived,2,2.04,"Bystrom, Mrs. (Karolina)",female,42.0,Southampton,1
+692,Survived,2,2.06,"Duran y More, Miss. Asuncion",female,27.0,Cherbourg,1
+693,Perished,1,1.06,"Roebling, Mr. Washington Augustus II",male,31.0,Southampton,1
+694,Survived,3,3.08,"Johnson, Master. Harold Theodor",male,4.0,Southampton,1
+695,Perished,3,3.22,"Balkic, Mr. Cerin",male,26.0,Southampton,1
+696,Survived,1,1.0,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,Southampton,1
+697,Perished,1,1.0,"Carlsson, Mr. Frans Olof",male,33.0,Southampton,1
+698,Perished,3,3.04,"Vander Cruyssen, Mr. Victor",male,47.0,Southampton,1
+699,Survived,2,2.1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,Cherbourg,1
+700,Survived,3,3.06,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,Cherbourg,1
+701,Perished,3,3.26,"Gustafsson, Mr. Alfred Ossian",male,20.0,Southampton,1
+702,Perished,3,3.24,"Petroff, Mr. Nedelio",male,19.0,Southampton,1
+703,Survived,1,1.0,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,Cherbourg,1
+704,Survived,2,2.04,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,Southampton,1
+705,Perished,3,3.14,"Markun, Mr. Johann",male,33.0,Southampton,1
+706,Perished,3,3.12,"Dahlberg, Miss. Gerda Ulrika",female,22.0,Southampton,1
+707,Perished,2,2.08,"Banfield, Mr. Frederick James",male,28.0,Southampton,1
+708,Perished,3,3.22,"Sutehall, Mr. Henry Jr",male,25.0,Southampton,1
+709,Perished,3,3.04,"Rice, Mrs. William (Margaret Norton)",female,39.0,Queesntown,1
+710,Perished,2,2.06,"Montvila, Rev. Juozas",male,27.0,Southampton,1
+711,Survived,1,1.06,"Graham, Miss. Margaret Edith",female,19.0,Southampton,1
+712,Survived,1,1.0,"Behr, Mr. Karl Howell",male,26.0,Cherbourg,1
+713,Perished,3,3.22,"Dooley, Mr. Patrick",male,32.0,Queesntown,1
+714,Perished,3,3.0,"Braund, Mr. Owen Harris",Total,22.0,Southampton,1
+715,Survived,1,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Total,38.0,Cherbourg,1
+716,Survived,3,3.0,"Heikkinen, Miss. Laina",Total,26.0,Southampton,1
+717,Survived,1,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Total,35.0,Southampton,1
+718,Perished,3,3.0,"Allen, Mr. William Henry",Total,35.0,Southampton,1
+719,Perished,1,1.0,"McCarthy, Mr. Timothy J",Total,54.0,Southampton,1
+720,Perished,3,3.0,"Palsson, Master. Gosta Leonard",Total,2.0,Southampton,1
+721,Survived,3,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Total,27.0,Southampton,1
+722,Survived,2,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",Total,14.0,Cherbourg,1
+723,Survived,3,3.0,"Sandstrom, Miss. Marguerite Rut",Total,4.0,Southampton,1
+724,Survived,1,1.0,"Bonnell, Miss. Elizabeth",Total,58.0,Southampton,1
+725,Perished,3,3.0,"Saundercock, Mr. William Henry",Total,20.0,Southampton,1
+726,Perished,3,3.0,"Andersson, Mr. Anders Johan",Total,39.0,Southampton,1
+727,Perished,3,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",Total,14.0,Southampton,1
+728,Survived,2,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",Total,55.0,Southampton,1
+729,Perished,3,3.0233333333333334,"Rice, Master. Eugene",Total,2.0,Queesntown,1
+730,Perished,3,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Total,31.0,Southampton,1
+731,Perished,2,2.0,"Fynney, Mr. Joseph J",Total,35.0,Southampton,1
+732,Survived,2,2.0,"Beesley, Mr. Lawrence",Total,34.0,Southampton,1
+733,Survived,3,3.0,"McGowan, Miss. Anna ""Annie""",Total,15.0,Queesntown,1
+734,Survived,1,1.0,"Sloper, Mr. William Thompson",Total,28.0,Southampton,1
+735,Perished,3,3.0,"Palsson, Miss. Torborg Danira",Total,8.0,Southampton,1
+736,Survived,3,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Total,38.0,Southampton,1
+737,Perished,1,1.0,"Fortune, Mr. Charles Alexander",Total,19.0,Southampton,1
+738,Perished,1,1.0,"Uruchurtu, Don. Manuel E",Total,40.0,Cherbourg,1
+739,Perished,2,2.0,"Wheadon, Mr. Edward H",Total,66.0,Southampton,1
+740,Perished,1,1.0266666666666666,"Meyer, Mr. Edgar Joseph",Total,28.0,Cherbourg,1
+741,Perished,1,1.0,"Holverson, Mr. Alexander Oskar",Total,42.0,Southampton,1
+742,Perished,3,3.0,"Cann, Mr. Ernest Charles",Total,21.0,Southampton,1
+743,Perished,3,3.0,"Vander Planke, Miss. Augusta Maria",Total,18.0,Southampton,1
+744,Survived,3,3.026666666666667,"Nicola-Yarred, Miss. Jamila",Total,14.0,Cherbourg,1
+745,Perished,3,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Total,40.0,Southampton,1
+746,Perished,2,2.0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Total,27.0,Southampton,1
+747,Survived,2,2.0,"Laroche, Miss. Simonne Marie Anne Andree",Total,3.0,Cherbourg,1
+748,Survived,3,3.0,"Devaney, Miss. Margaret Delia",Total,19.0,Queesntown,1
+749,Perished,3,3.021333333333333,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Total,18.0,Southampton,1
+750,Perished,3,3.0,"Panula, Master. Juha Niilo",Total,7.0,Southampton,1
+751,Perished,3,3.02125,"Nosworthy, Mr. Richard Cater",Total,21.0,Southampton,1
+752,Survived,1,1.0,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Total,49.0,Cherbourg,1
+753,Survived,2,2.0,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Total,29.0,Southampton,1
+754,Perished,1,1.0,"Ostby, Mr. Engelhart Cornelius",Total,65.0,Cherbourg,1
+755,Survived,2,2.0,"Rugg, Miss. Emily",Total,21.0,Southampton,1
+756,Perished,3,3.0,"Novel, Mr. Mansouer",Total,28.5,Cherbourg,1
+757,Survived,2,2.0,"West, Miss. Constance Mirium",Total,5.0,Southampton,1
+758,Perished,3,3.0,"Goodwin, Master. William Frederick",Total,11.0,Southampton,1
+759,Perished,3,3.0210526315789474,"Sirayanian, Mr. Orsen",Total,22.0,Cherbourg,1
+760,Survived,1,1.024,"Icard, Miss. Amelie",Total,38.0,,1
+761,Perished,1,1.0,"Harris, Mr. Henry Birkhardt",Total,45.0,Southampton,1
+762,Perished,3,3.0233333333333334,"Skoog, Master. Harald",Total,4.0,Southampton,1
+763,Survived,2,2.024,"Nye, Mrs. (Elizabeth Ramell)",Total,29.0,Southampton,1
+764,Perished,3,3.0215384615384617,"Crease, Mr. Ernest James",Total,19.0,Southampton,1
+765,Survived,3,3.0,"Andersson, Miss. Erna Alexandra",Total,17.0,Southampton,1
+766,Perished,3,3.0215384615384617,"Kink, Mr. Vincenz",Total,26.0,Southampton,1
+767,Perished,2,2.0,"Jenkin, Mr. Stephen Curnow",Total,32.0,Southampton,1
+768,Perished,3,3.0,"Goodwin, Miss. Lillian Amy",Total,16.0,Southampton,1
+769,Perished,2,2.026666666666667,"Hood, Mr. Ambrose Jr",Total,21.0,Southampton,1
+770,Perished,3,3.043076923076923,"Chronopoulos, Mr. Apostolos",Total,26.0,Cherbourg,1
+771,Survived,3,3.0,"Bing, Mr. Lee",Total,32.0,Southampton,1
+772,Perished,3,3.0,"Moen, Mr. Sigurd Hansen",Total,25.0,Southampton,1
+773,Survived,2,2.0,"Caldwell, Master. Alden Gates",Total,0.83,Southampton,1
+774,Survived,3,3.0,"Dowdell, Miss. Elizabeth",Total,30.0,Southampton,1
+775,Perished,3,3.042105263157895,"Waelens, Mr. Achille",Total,22.0,Southampton,1
+776,Survived,3,3.0,"Sheerlinck, Mr. Jan Baptist",Total,29.0,Southampton,1
+777,Perished,1,1.0533333333333335,"Carrau, Mr. Francisco M",Total,28.0,Southampton,1
+778,Survived,2,2.0,"Ilett, Miss. Bertha",Total,17.0,Southampton,1
+779,Survived,3,3.0,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Total,33.0,Southampton,1
+780,Perished,3,3.021818181818182,"Ford, Mr. William Neal",Total,16.0,Southampton,1
+781,Survived,1,1.0,"Fortune, Miss. Mabel Helen",Total,23.0,Southampton,1
+782,Perished,3,3.0,"Celotti, Mr. Francesco",Total,24.0,Southampton,1
+783,Perished,3,3.0220000000000002,"Christmann, Mr. Emil",Total,29.0,Southampton,1
+784,Perished,3,3.0214285714285714,"Andreasson, Mr. Paul Edvin",Total,20.0,Southampton,1
+785,Perished,1,1.0,"Chaffee, Mr. Herbert Fuller",Total,46.0,Southampton,1
+786,Perished,3,3.0646153846153847,"Dean, Mr. Bertram Frank",Total,26.0,Southampton,1
+787,Perished,3,3.0,"Coxon, Mr. Daniel",Total,59.0,Southampton,1
+788,Perished,1,1.0,"Goldschmidt, Mr. George B",Total,71.0,Cherbourg,1
+789,Survived,1,1.03,"Greenfield, Mr. William Bertram",Total,23.0,Cherbourg,1
+790,Survived,2,2.022222222222222,"Doling, Mrs. John T (Ada Julia Bone)",Total,34.0,Southampton,1
+791,Perished,2,2.0444444444444443,"Kantor, Mr. Sinai",Total,34.0,Southampton,1
+792,Perished,3,3.0,"Petranec, Miss. Matilda",Total,28.0,Southampton,1
+793,Perished,1,1.0,"White, Mr. Richard Frasar",Total,21.0,Southampton,1
+794,Perished,3,3.0228571428571427,"Johansson, Mr. Gustaf Joel",Total,33.0,Southampton,1
+795,Perished,3,3.0,"Gustafsson, Mr. Anders Vilhelm",Total,37.0,Southampton,1
+796,Perished,3,3.021818181818182,"Mionoff, Mr. Stoytcho",Total,28.0,Southampton,1
+797,Survived,3,3.0425,"Salkjelsvik, Miss. Anna Kristine",Total,21.0,Southampton,1
+798,Perished,3,3.026666666666667,"Rekic, Mr. Tido",Total,38.0,Southampton,1
+799,Perished,1,1.0,"Porter, Mr. Walter Chamberlain",Total,47.0,Southampton,1
+800,Perished,3,3.0,"Zabour, Miss. Hileni",Total,14.5,Cherbourg,1
+801,Perished,3,3.0631578947368423,"Barton, Mr. David John",Total,22.0,Southampton,1
+802,Perished,3,3.0428571428571427,"Jussila, Miss. Katriina",Total,20.0,Southampton,1
+803,Perished,3,3.0228571428571427,"Attalah, Miss. Malake",Total,17.0,Cherbourg,1
+804,Perished,3,3.0637499999999998,"Pekoniemi, Mr. Edvard",Total,21.0,Southampton,1
+805,Perished,3,3.0,"Connors, Mr. Patrick",Total,70.5,Queesntown,1
+806,Perished,2,2.048,"Turpin, Mr. William John Robert",Total,29.0,Southampton,1
+807,Perished,1,1.0,"Baxter, Mr. Quigg Edmond",Total,24.0,Cherbourg,1
+808,Perished,3,3.046666666666667,"Andersson, Miss. Ellis Anna Maria",Total,2.0,Southampton,1
+809,Perished,2,2.0533333333333332,"Hickman, Mr. Stanley George",Total,21.0,Southampton,1
+810,Perished,2,2.0,"Nasser, Mr. Nicholas",Total,32.5,Cherbourg,1
+811,Survived,2,2.04,"Webber, Miss. Susan",Total,32.5,Southampton,1
+812,Perished,1,1.0266666666666666,"White, Mr. Percival Wayland",Total,54.0,Southampton,1
+813,Survived,3,3.0,"Nicola-Yarred, Master. Elias",Total,12.0,Cherbourg,1
+814,Survived,3,3.0216666666666665,"Madsen, Mr. Fridtjof Arne",Total,24.0,Southampton,1
+815,Perished,3,3.0,"Ekstrom, Mr. Johan",Total,45.0,Southampton,1
+816,Perished,3,3.045714285714286,"Drazenoic, Mr. Jozef",Total,33.0,Cherbourg,1
+817,Perished,3,3.064285714285714,"Coelho, Mr. Domingos Fernandeo",Total,20.0,Southampton,1
+818,Perished,3,3.0,"Robins, Mrs. Alexander A (Grace Charity Laury)",Total,47.0,Southampton,1
+819,Survived,2,2.072,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Total,29.0,Southampton,1
+820,Perished,2,2.0,"Sobey, Mr. Samuel James Hayden",Total,25.0,Southampton,1
+821,Perished,2,2.0,"Richard, Mr. Emile",Total,23.0,Cherbourg,1
+822,Survived,1,1.025,"Newsom, Miss. Helen Monypeny",Total,19.0,Southampton,1
+823,Perished,1,1.0,"Futrelle, Mr. Jacques Heath",Total,37.0,Southampton,1
+824,Perished,3,3.0436363636363635,"Osen, Mr. Olaf Elon",Total,16.0,Southampton,1
+825,Perished,1,1.0233333333333334,"Giglio, Mr. Victor",Total,24.0,Cherbourg,1
+826,Survived,3,3.0842105263157893,"Nysten, Miss. Anna Sofia",Total,22.0,Southampton,1
+827,Survived,3,3.0433333333333334,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Total,24.0,Southampton,1
+828,Perished,3,3.043076923076923,"Burke, Mr. Jeremiah",Total,19.0,Queesntown,1
+829,Perished,2,2.0,"Andrew, Mr. Edgardo Samuel",Total,18.0,Southampton,1
+830,Perished,2,2.0,"Nicholls, Mr. Joseph Charles",Total,19.0,Southampton,1
+831,Survived,3,3.0228571428571427,"Andersson, Mr. August Edvard (""Wennerstrom"")",Total,27.0,Southampton,1
+832,Perished,3,3.0,"Ford, Miss. Robina Maggie ""Ruby""",Total,9.0,Southampton,1
+833,Perished,2,2.0,"Navratil, Mr. Michel (""Louis M Hoffman"")",Total,36.5,Southampton,1
+834,Perished,2,2.0,"Byles, Rev. Thomas Roussel Davids",Total,42.0,Southampton,1
+835,Perished,2,2.0,"Bateman, Rev. Robert James",Total,51.0,Southampton,1
+836,Survived,1,1.0,"Pears, Mrs. Thomas (Edith Wearne)",Total,22.0,Southampton,1
+837,Perished,3,3.0,"Meo, Mr. Alfonzo",Total,55.5,Southampton,1
+838,Perished,3,3.0,"van Billiard, Mr. Austin Blyler",Total,40.5,Southampton,1
+839,Perished,1,1.0,"Williams, Mr. Charles Duane",Total,51.0,Cherbourg,1
+840,Survived,3,3.0654545454545454,"Gilnagh, Miss. Katherine ""Katie""",Total,16.0,Queesntown,1
+841,Perished,3,3.0220000000000002,"Corn, Mr. Harry",Total,30.0,Southampton,1
+842,Perished,3,3.0,"Cribb, Mr. John Hatfield",Total,44.0,Southampton,1
+843,Survived,2,2.0,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Total,40.0,Southampton,1
+844,Perished,3,3.086153846153846,"Bengtsson, Mr. John Viktor",Total,26.0,Southampton,1
+845,Perished,3,3.045714285714286,"Calic, Mr. Jovo",Total,17.0,Southampton,1
+846,Perished,3,3.0,"Panula, Master. Eino Viljami",Total,1.0,Southampton,1
+847,Survived,3,3.0228571428571427,"Goldsmith, Master. Frank John William ""Frankie""",Total,9.0,Southampton,1
+848,Perished,3,3.025,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Total,45.0,Southampton,1
+849,Perished,3,3.0436363636363635,"Ling, Mr. Lee",Total,28.0,Southampton,1
+850,Perished,1,1.0,"Van der hoef, Mr. Wyckoff",Total,61.0,Southampton,1
+851,Perished,3,3.046666666666667,"Rice, Master. Arthur",Total,4.0,Queesntown,1
+852,Survived,3,3.025,"Johnson, Miss. Eleanor Ileen",Total,1.0,Southampton,1
+853,Perished,3,3.085,"Sivola, Mr. Antti Wilhelm",Total,21.0,Southampton,1
+854,Perished,1,1.0,"Smith, Mr. James Clinch",Total,56.0,Cherbourg,1
+855,Perished,3,3.042666666666667,"Klasen, Mr. Klas Albin",Total,18.0,Southampton,1
+856,Perished,1,1.0,"Isham, Miss. Ann Elizabeth",Total,50.0,Cherbourg,1
+857,Perished,2,2.0,"Hale, Mr. Reginald",Total,30.0,Southampton,1
+858,Perished,3,3.0,"Leonard, Mr. Lionel",Total,36.0,Southampton,1
+859,Perished,3,3.045714285714286,"Asplund, Master. Clarence Gustaf Hugo",Total,9.0,Southampton,1
+860,Survived,2,2.0,"Becker, Master. Richard F",Total,1.0,Southampton,1
+861,Survived,3,3.0700000000000003,"Kink-Heilmann, Miss. Luise Gretchen",Total,4.0,Southampton,1
+862,Survived,1,1.025,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Total,45.0,Southampton,1
+863,Perished,3,3.025,"Bourke, Mr. John",Total,40.0,Queesntown,1
+864,Perished,3,3.024,"Turcin, Mr. Stjepan",Total,36.0,Southampton,1
+865,Survived,2,2.026666666666667,"Pinsky, Mrs. (Rosa)",Total,32.0,Southampton,1
+866,Perished,2,2.024,"Carbines, Mr. William",Total,19.0,Southampton,1
+867,Survived,3,3.0646153846153847,"Andersen-Jensen, Miss. Carla Christine Nielsine",Total,19.0,Southampton,1
+868,Survived,2,2.0300000000000002,"Navratil, Master. Michel M",Total,3.0,Southampton,1
+869,Survived,1,1.0,"Brown, Mrs. James Joseph (Margaret Tobin)",Total,44.0,Cherbourg,1
+870,Survived,1,1.025,"Lurette, Miss. Elise",Total,58.0,Cherbourg,1
+871,Perished,3,3.0,"Olsen, Mr. Karl Siegwart Andreas",Total,42.0,Southampton,1
+872,Perished,2,2.0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Total,24.0,Southampton,1
+873,Perished,3,3.0654545454545454,"Vande Walle, Mr. Nestor Cyriel",Total,28.0,Southampton,1
+874,Perished,3,3.0,"Johanson, Mr. Jakob Alfred",Total,34.0,Southampton,1
+875,Perished,3,3.0,"Youseff, Mr. Gerious",Total,45.5,Cherbourg,1
+876,Survived,3,3.064,"Cohen, Mr. Gurshon ""Gus""",Total,18.0,Southampton,1
+877,Perished,3,3.0700000000000003,"Strom, Miss. Telma Matilda",Total,2.0,Southampton,1
+878,Perished,3,3.021818181818182,"Backstrom, Mr. Karl Alfred",Total,32.0,Southampton,1
+879,Survived,3,3.1076923076923078,"Albimona, Mr. Nassef Cassem",Total,26.0,Cherbourg,1
+880,Survived,3,3.0872727272727274,"Carr, Miss. Helen ""Ellen""",Total,16.0,Queesntown,1
+881,Survived,1,1.025,"Blank, Mr. Henry",Total,40.0,Cherbourg,1
+882,Perished,3,3.065,"Ali, Mr. Ahmed",Total,24.0,Southampton,1
+883,Survived,2,2.0300000000000002,"Cameron, Miss. Clear Annie",Total,35.0,Southampton,1
+884,Perished,3,3.1052631578947367,"Perkin, Mr. John Henry",Total,22.0,Southampton,1
+885,Perished,2,2.0228571428571427,"Givard, Mr. Hans Kristensen",Total,30.0,Southampton,1
+886,Survived,1,1.0,"Newell, Miss. Madeleine",Total,31.0,Cherbourg,1
+887,Survived,3,3.045714285714286,"Honkanen, Miss. Eliina",Total,27.0,Southampton,1
+888,Perished,2,2.025,"Jacobsohn, Mr. Sidney Samuel",Total,42.0,Southampton,1
+889,Survived,1,1.0,"Bazzani, Miss. Albina",Total,32.0,Cherbourg,1
+890,Perished,2,2.045714285714286,"Harris, Mr. Walter",Total,30.0,Southampton,1
+891,Survived,3,3.1090909090909093,"Sunderland, Mr. Victor Francis",Total,16.0,Southampton,1
+892,Perished,2,2.024,"Bracken, Mr. James H",Total,27.0,Southampton,1
+893,Perished,3,3.0,"Green, Mr. George Henry",Total,51.0,Southampton,1
+894,Survived,1,1.048,"Hoyt, Mr. Frederick Maxfield",Total,38.0,Southampton,1
+895,Perished,3,3.126315789473684,"Berglund, Mr. Karl Ivar Sven",Total,22.0,Southampton,1
+896,Survived,2,2.048,"Mellors, Mr. William John",Total,19.0,Southampton,1
+897,Perished,3,3.0,"Lovell, Mr. John Hall (""Henry"")",Total,20.5,Southampton,1
+898,Perished,2,2.024,"Fahlstrom, Mr. Arne Jonas",Total,18.0,Southampton,1
+899,Survived,1,1.0225,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Total,35.0,Southampton,1
+900,Perished,3,3.044,"Larsson, Mr. Bengt Edvin",Total,29.0,Southampton,1
+901,Perished,2,2.0,"Sjostedt, Mr. Ernst Adolf",Total,59.0,Southampton,1
+902,Survived,3,3.0,"Asplund, Miss. Lillian Gertrud",Total,5.0,Southampton,1
+903,Perished,2,2.022222222222222,"Leyson, Mr. Robert William Norman",Total,24.0,Southampton,1
+904,Perished,2,2.0,"Hold, Mr. Stephen",Total,44.0,Southampton,1
+905,Survived,2,2.0,"Collyer, Miss. Marjorie ""Lottie""",Total,8.0,Southampton,1
+906,Perished,2,2.072,"Pengelly, Mr. Frederick William",Total,19.0,Southampton,1
+907,Perished,2,2.0,"Hunt, Mr. George Henry",Total,33.0,Southampton,1
+908,Perished,2,2.096,"Coleridge, Mr. Reginald Charles",Total,29.0,Southampton,1
+909,Perished,3,3.1473684210526316,"Maenpaa, Mr. Matti Alexanteri",Total,22.0,Southampton,1
+910,Perished,3,3.044,"Attalah, Mr. Sleiman",Total,30.0,Cherbourg,1
+911,Perished,1,1.03,"Minahan, Dr. William Edward",Total,44.0,Queesntown,1
+912,Perished,3,3.0216666666666665,"Lindahl, Miss. Agda Thorilda Viktoria",Total,25.0,Southampton,1
+913,Survived,2,2.0444444444444443,"Hamalainen, Mrs. William (Anna)",Total,24.0,Southampton,1
+914,Survived,1,1.03,"Beckwith, Mr. Richard Leonard",Total,37.0,Southampton,1
+915,Perished,2,2.0,"Carter, Rev. Ernest Courtenay",Total,54.0,Southampton,1
+916,Perished,3,3.066,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Total,29.0,Southampton,1
+917,Perished,1,1.0,"Stead, Mr. William Thomas",Total,62.0,Southampton,1
+918,Perished,3,3.066,"Lobb, Mr. William Arthur",Total,30.0,Southampton,1
+919,Perished,3,3.0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Total,41.0,Southampton,1
+920,Survived,3,3.088,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Total,29.0,Cherbourg,1
+921,Survived,1,1.0,"Cherry, Miss. Gladys",Total,30.0,Southampton,1
+922,Survived,1,1.045,"Ward, Miss. Anna",Total,35.0,Cherbourg,1
+923,Survived,2,2.0,"Parrish, Mrs. (Lutie Davis)",Total,50.0,Southampton,1
+924,Survived,3,3.0,"Asplund, Master. Edvin Rojj Felix",Total,3.0,Southampton,1
+925,Perished,1,1.0,"Taussig, Mr. Emil",Total,52.0,Southampton,1
+926,Perished,1,1.05,"Harrison, Mr. William",Total,40.0,Southampton,1
+927,Perished,2,2.0,"Reeves, Mr. David",Total,36.0,Southampton,1
+928,Perished,3,3.130909090909091,"Panula, Mr. Ernesti Arvid",Total,16.0,Southampton,1
+929,Survived,3,3.0433333333333334,"Persson, Mr. Ernst Ulrik",Total,25.0,Southampton,1
+930,Survived,1,1.05,"Graham, Mrs. William Thompson (Edith Junkins)",Total,58.0,Southampton,1
+931,Survived,1,1.0675,"Bissette, Miss. Amelia",Total,35.0,Southampton,1
+932,Survived,3,3.065,"Tornquist, Mr. William Henry",Total,25.0,Southampton,1
+933,Survived,2,2.0,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Total,41.0,Southampton,1
+934,Perished,1,1.06,"Natsch, Mr. Charles H",Total,37.0,Cherbourg,1
+935,Survived,1,1.0,"Andrews, Miss. Kornelia Theodosia",Total,63.0,Southampton,1
+936,Perished,3,3.05,"Lindblom, Miss. Augusta Charlotta",Total,45.0,Southampton,1
+937,Perished,3,3.04,"Rice, Master. Eric",Total,7.0,Queesntown,1
+938,Survived,3,3.024,"Abbott, Mrs. Stanton (Rosa Hunt)",Total,35.0,Southampton,1
+939,Perished,3,3.0,"Duane, Mr. Frank",Total,65.0,Queesntown,1
+940,Perished,3,3.0872727272727274,"Olsson, Mr. Nils Johan Goransson",Total,28.0,Southampton,1
+941,Perished,3,3.152727272727273,"de Pelsmaeker, Mr. Alfons",Total,16.0,Southampton,1
+942,Survived,3,3.086153846153846,"Dorking, Mr. Edward Arthur",Total,19.0,Southampton,1
+943,Perished,3,3.0685714285714285,"Stankovic, Mr. Ivan",Total,33.0,Cherbourg,1
+944,Survived,3,3.088,"de Mulder, Mr. Theodore",Total,30.0,Southampton,1
+945,Perished,3,3.168421052631579,"Naidenoff, Mr. Penko",Total,22.0,Southampton,1
+946,Survived,2,2.05,"Hosono, Mr. Masabumi",Total,42.0,Southampton,1
+947,Survived,3,3.1894736842105265,"Connolly, Miss. Kate",Total,22.0,Queesntown,1
+948,Survived,1,1.0,"Barber, Miss. Ellen ""Nellie""",Total,26.0,Southampton,1
+949,Survived,1,1.05,"Bishop, Mrs. Dickinson H (Helen Walton)",Total,19.0,Cherbourg,1
+950,Perished,2,2.0233333333333334,"Levy, Mr. Rene Jacques",Total,36.0,Cherbourg,1
+951,Perished,3,3.0866666666666664,"Haas, Miss. Aloisia",Total,24.0,Southampton,1
+952,Perished,3,3.1083333333333334,"Mineff, Mr. Ivan",Total,24.0,Southampton,1
+953,Perished,3,3.0,"Hanna, Mr. Mansour",Total,23.5,Cherbourg,1
+954,Perished,1,1.0,"Allison, Miss. Helen Loraine",Total,2.0,Southampton,1
+955,Survived,1,1.025,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Total,50.0,Cherbourg,1
+956,Perished,3,3.1076923076923078,"Johnson, Mr. William Cahoone Jr",Total,19.0,Southampton,1
+957,Survived,1,1.0,"Allison, Master. Hudson Trevor",Total,0.92,Southampton,1
+958,Survived,1,1.0,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Total,17.0,Cherbourg,1
+959,Perished,2,2.0685714285714285,"Abelson, Mr. Samuel",Total,30.0,Cherbourg,1
+960,Survived,1,1.024,"Francatelli, Miss. Laura Mabel",Total,30.0,Cherbourg,1
+961,Survived,1,1.0466666666666666,"Hays, Miss. Margaret Bechstein",Total,24.0,Cherbourg,1
+962,Survived,1,1.0,"Ryerson, Miss. Emily Borie",Total,18.0,Cherbourg,1
+963,Perished,2,2.0,"Lahtinen, Mrs. William (Anna Sylfven)",Total,26.0,Southampton,1
+964,Perished,3,3.1090909090909093,"Hendekovic, Mr. Ignjac",Total,28.0,Southampton,1
+965,Perished,2,2.0,"Hart, Mr. Benjamin",Total,43.0,Southampton,1
+966,Survived,3,3.1292307692307695,"Nilsson, Miss. Helmina Josefina",Total,26.0,Southampton,1
+967,Survived,2,2.066666666666667,"Kantor, Mrs. Sinai (Miriam Sternin)",Total,24.0,Southampton,1
+968,Perished,2,2.026666666666667,"Moraweck, Dr. Ernest",Total,54.0,Southampton,1
+969,Survived,1,1.025,"Wick, Miss. Mary Natalie",Total,31.0,Southampton,1
+970,Survived,1,1.0750000000000002,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Total,40.0,Cherbourg,1
+971,Perished,3,3.2105263157894735,"Dennis, Mr. Samuel",Total,22.0,Southampton,1
+972,Perished,3,3.0685714285714285,"Danoff, Mr. Yoto",Total,27.0,Southampton,1
+973,Survived,2,2.0914285714285716,"Slayter, Miss. Hilda Mary",Total,30.0,Queesntown,1
+974,Survived,2,2.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Total,22.0,Southampton,1
+975,Survived,1,1.0,"Young, Miss. Marie Grice",Total,36.0,Cherbourg,1
+976,Perished,3,3.0,"Nysveen, Mr. Johan Hansen",Total,61.0,Southampton,1
+977,Survived,2,2.046666666666667,"Ball, Mrs. (Ada E Hall)",Total,36.0,Southampton,1
+978,Survived,3,3.0233333333333334,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Total,31.0,Southampton,1
+979,Survived,1,1.0,"Hippach, Miss. Jean Gertrude",Total,16.0,Cherbourg,1
+980,Perished,1,1.0,"Partner, Mr. Austen",Total,45.5,Southampton,1
+981,Perished,1,1.072,"Graham, Mr. George Edward",Total,38.0,Southampton,1
+982,Perished,3,3.174545454545455,"Vander Planke, Mr. Leo Edmondus",Total,16.0,Southampton,1
+983,Perished,1,1.0,"Pears, Mr. Thomas Clinton",Total,29.0,Southampton,1
+984,Survived,1,1.0,"Burns, Miss. Elizabeth Margaret",Total,41.0,Cherbourg,1
+985,Survived,3,3.075,"Dahl, Mr. Karl Edwart",Total,45.0,Southampton,1
+986,Perished,1,1.05,"Blackwell, Mr. Stephen Weart",Total,45.0,Southampton,1
+987,Survived,2,2.0,"Navratil, Master. Edmond Roger",Total,2.0,Southampton,1
+988,Survived,1,1.07,"Fortune, Miss. Alice Elizabeth",Total,24.0,Southampton,1
+989,Perished,2,2.0,"Collander, Mr. Erik Gustaf",Total,28.0,Southampton,1
+990,Perished,2,2.0233333333333334,"Sedgwick, Mr. Charles Frederick Waddington",Total,25.0,Southampton,1
+991,Perished,2,2.0700000000000003,"Fox, Mr. Stanley Hubert",Total,36.0,Southampton,1
+992,Survived,2,2.088888888888889,"Brown, Miss. Amelia ""Mildred""",Total,24.0,Southampton,1
+993,Survived,2,2.0300000000000002,"Smith, Miss. Marion Elsie",Total,40.0,Southampton,1
+994,Survived,3,3.0300000000000002,"Coutts, Master. William Loch ""William""",Total,3.0,Southampton,1
+995,Perished,3,3.026666666666667,"Dimic, Mr. Jovan",Total,42.0,Southampton,1
+996,Perished,3,3.0,"Odahl, Mr. Nils Martin",Total,23.0,Southampton,1
+997,Perished,3,3.026666666666667,"Elias, Mr. Tannous",Total,15.0,Cherbourg,1
+998,Perished,3,3.0866666666666664,"Arnold-Franchi, Mr. Josef",Total,25.0,Southampton,1
+999,Perished,3,3.130909090909091,"Vanden Steen, Mr. Leo Peter",Total,28.0,Southampton,1
+1000,Survived,1,1.025,"Bowerman, Miss. Elsie Edith",Total,22.0,Southampton,1
+1001,Perished,2,2.0,"Funk, Miss. Annie Clemmer",Total,38.0,Southampton,1
+1002,Perished,3,3.05,"Skoog, Mr. Wilhelm",Total,40.0,Southampton,1
+1003,Perished,2,2.12,"del Carlo, Mr. Sebastiano",Total,29.0,Cherbourg,1
+1004,Perished,3,3.1,"Barbara, Mrs. (Catherine David)",Total,45.0,Cherbourg,1
+1005,Perished,3,3.048,"Asim, Mr. Adola",Total,35.0,Southampton,1
+1006,Perished,3,3.1100000000000003,"Adahl, Mr. Mauritz Nils Martin",Total,30.0,Southampton,1
+1007,Survived,1,1.0,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Total,60.0,Cherbourg,1
+1008,Survived,1,1.0933333333333335,"Aubart, Mme. Leontine Pauline",Total,24.0,Cherbourg,1
+1009,Survived,1,1.0,"Harder, Mr. George Achilles",Total,25.0,Cherbourg,1
+1010,Perished,3,3.0853333333333333,"Wiklund, Mr. Jakob Alfred",Total,18.0,Southampton,1
+1011,Perished,3,3.1292307692307695,"Beavan, Mr. William Thomas",Total,19.0,Southampton,1
+1012,Perished,1,1.05,"Ringhini, Mr. Sante",Total,22.0,Cherbourg,1
+1013,Perished,3,3.06,"Palsson, Miss. Stina Viola",Total,3.0,Southampton,1
+1014,Survived,3,3.231578947368421,"Landergren, Miss. Aurora Adelia",Total,22.0,Southampton,1
+1015,Perished,1,1.0,"Widener, Mr. Harry Elkins",Total,27.0,Cherbourg,1
+1016,Perished,3,3.085714285714286,"Betros, Mr. Tannous",Total,20.0,Cherbourg,1
+1017,Perished,3,3.1507692307692308,"Gustafsson, Mr. Karl Gideon",Total,19.0,Southampton,1
+1018,Survived,1,1.0266666666666666,"Bidois, Miss. Rosalie",Total,42.0,Cherbourg,1
+1019,Survived,3,3.05,"Nakid, Miss. Maria (""Mary"")",Total,1.0,Cherbourg,1
+1020,Perished,3,3.0436363636363635,"Tikkanen, Mr. Juho",Total,32.0,Southampton,1
+1021,Survived,1,1.0899999999999999,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Total,35.0,Southampton,1
+1022,Perished,2,2.048,"Davies, Mr. Charles Henry",Total,18.0,Southampton,1
+1023,Perished,3,3.075,"Goodwin, Master. Sidney Leonard",Total,1.0,Southampton,1
+1024,Survived,2,2.0933333333333333,"Buss, Miss. Kate",Total,36.0,Southampton,1
+1025,Survived,2,2.04,"Lehmann, Miss. Bertha",Total,17.0,Cherbourg,1
+1026,Survived,1,1.0225,"Carter, Mr. William Ernest",Total,36.0,Southampton,1
+1027,Survived,3,3.10625,"Jansson, Mr. Carl Olof",Total,21.0,Southampton,1
+1028,Perished,3,3.152727272727273,"Gustafsson, Mr. Johan Birger",Total,28.0,Southampton,1
+1029,Survived,1,1.06,"Newell, Miss. Marjorie",Total,23.0,Cherbourg,1
+1030,Survived,3,3.13,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Total,24.0,Southampton,1
+1031,Perished,3,3.2526315789473683,"Johansson, Mr. Erik",Total,22.0,Southampton,1
+1032,Perished,3,3.046666666666667,"Olsson, Miss. Elina",Total,31.0,Southampton,1
+1033,Perished,2,2.0,"McKane, Mr. Peter David",Total,46.0,Southampton,1
+1034,Perished,2,2.0233333333333334,"Pain, Dr. Alfred",Total,23.0,Southampton,1
+1035,Survived,2,2.0225,"Trout, Mrs. William H (Jessie L)",Total,28.0,Southampton,1
+1036,Survived,3,3.024,"Niskanen, Mr. Juha",Total,39.0,Southampton,1
+1037,Perished,3,3.1507692307692308,"Adams, Mr. John",Total,26.0,Southampton,1
+1038,Perished,3,3.1275,"Jussila, Miss. Mari Aina",Total,21.0,Southampton,1
+1039,Perished,3,3.174545454545455,"Hakkarainen, Mr. Pekka Pietari",Total,28.0,Southampton,1
+1040,Perished,3,3.107142857142857,"Oreskovic, Miss. Marija",Total,20.0,Southampton,1
+1041,Perished,2,2.066666666666667,"Gale, Mr. Shadrach",Total,34.0,Southampton,1
+1042,Perished,3,3.0300000000000002,"Widegren, Mr. Carl/Charles Peter",Total,51.0,Southampton,1
+1043,Survived,2,2.06,"Richards, Master. William Rowe",Total,3.0,Southampton,1
+1044,Perished,3,3.1487499999999997,"Birkeland, Mr. Hans Martin Monsen",Total,21.0,Southampton,1
+1045,Survived,1,1.0,"Minahan, Miss. Daisy E",Total,33.0,Queesntown,1
+1046,Survived,3,3.026666666666667,"Sundman, Mr. Johan Julian",Total,44.0,Southampton,1
+1047,Survived,2,2.088888888888889,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Total,34.0,Southampton,1
+1048,Survived,2,2.072,"Silven, Miss. Lyyli Karoliina",Total,18.0,Southampton,1
+1049,Perished,2,2.1142857142857143,"Matthews, Mr. William John",Total,30.0,Southampton,1
+1050,Perished,3,3.0,"Van Impe, Miss. Catharina",Total,10.0,Southampton,1
+1051,Perished,3,3.17,"Charters, Mr. David",Total,21.0,Queesntown,1
+1052,Perished,3,3.1100000000000003,"Zimmerman, Mr. Leo",Total,29.0,Southampton,1
+1053,Perished,3,3.1963636363636367,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Total,28.0,Southampton,1
+1054,Perished,3,3.1066666666666665,"Rosblom, Mr. Viktor Richard",Total,18.0,Southampton,1
+1055,Survived,2,2.045,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Total,28.0,Southampton,1
+1056,Survived,2,2.096,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Total,19.0,Southampton,1
+1057,Survived,3,3.0654545454545454,"Pickard, Mr. Berk (Berk Trembisky)",Total,32.0,Southampton,1
+1058,Survived,1,1.08,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Total,28.0,Southampton,1
+1059,Survived,2,2.075,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Total,42.0,Southampton,1
+1060,Perished,3,3.0685714285714285,"Kallio, Mr. Nikolai Erland",Total,17.0,Southampton,1
+1061,Perished,1,1.05,"Silvey, Mr. William Baird",Total,50.0,Southampton,1
+1062,Survived,1,1.0,"Carter, Miss. Lucile Polk",Total,14.0,Southampton,1
+1063,Perished,3,3.19125,"Ford, Miss. Doolina Margaret ""Daisy""",Total,21.0,Southampton,1
+1064,Survived,2,2.111111111111111,"Richards, Mrs. Sidney (Emily Hocking)",Total,24.0,Southampton,1
+1065,Perished,1,1.0,"Fortune, Mr. Mark",Total,64.0,Southampton,1
+1066,Perished,2,2.0,"Kvillner, Mr. Johan Henrik Johannesson",Total,31.0,Southampton,1
+1067,Survived,2,2.0,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Total,45.0,Southampton,1
+1068,Perished,3,3.1285714285714286,"Hampe, Mr. Leon",Total,20.0,Southampton,1
+1069,Perished,3,3.1083333333333334,"Petterson, Mr. Johan Emil",Total,25.0,Southampton,1
+1070,Survived,2,2.0675,"Reynaldo, Ms. Encarnacion",Total,28.0,Southampton,1
+1071,Survived,1,1.0,"Dodge, Master. Washington",Total,4.0,Southampton,1
+1072,Survived,2,2.0,"Mellinger, Miss. Madeleine Violet",Total,13.0,Southampton,1
+1073,Survived,1,1.0,"Seward, Mr. Frederic Kimber",Total,34.0,Southampton,1
+1074,Survived,3,3.0300000000000002,"Baclini, Miss. Marie Catherine",Total,5.0,Cherbourg,1
+1075,Survived,1,1.0266666666666666,"Peuchen, Major. Arthur Godfrey",Total,52.0,Southampton,1
+1076,Perished,2,2.1166666666666667,"West, Mr. Edwy Arthur",Total,36.0,Southampton,1
+1077,Perished,1,1.048,"Foreman, Mr. Benjamin Laventall",Total,30.0,Cherbourg,1
+1078,Survived,1,1.025,"Goldenberg, Mr. Samuel L",Total,49.0,Cherbourg,1
+1079,Survived,3,3.132,"Jalsevac, Mr. Ivan",Total,29.0,Cherbourg,1
+1080,Perished,1,1.04,"Millet, Mr. Francis Davis",Total,65.0,Southampton,1
+1081,Survived,2,2.026666666666667,"Toomey, Miss. Ellen",Total,50.0,Southampton,1
+1082,Survived,1,1.0,"Anderson, Mr. Harry",Total,48.0,Southampton,1
+1083,Perished,3,3.026666666666667,"Morley, Mr. William",Total,34.0,Southampton,1
+1084,Perished,1,1.025,"Gee, Mr. Arthur H",Total,47.0,Southampton,1
+1085,Perished,2,2.0,"Milling, Mr. Jacob Christian",Total,48.0,Southampton,1
+1086,Perished,3,3.0533333333333332,"Goncalves, Mr. Manuel Estanslas",Total,38.0,Southampton,1
+1087,Perished,1,1.0266666666666666,"Smart, Mr. John Montgomery",Total,56.0,Southampton,1
+1088,Survived,3,3.0,"Baclini, Miss. Helene Barbara",Total,0.75,Cherbourg,1
+1089,Perished,3,3.08,"Cacic, Mr. Luka",Total,38.0,Southampton,1
+1090,Survived,2,2.0300000000000002,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Total,33.0,Southampton,1
+1091,Survived,2,2.046666666666667,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Total,23.0,Cherbourg,1
+1092,Perished,3,3.2736842105263158,"Strandberg, Miss. Ida Sofia",Total,22.0,Southampton,1
+1093,Perished,2,2.111111111111111,"Renouf, Mr. Peter Henry",Total,34.0,Southampton,1
+1094,Perished,3,3.154,"Braund, Mr. Lewis Richard",Total,29.0,Southampton,1
+1095,Perished,3,3.294736842105263,"Karlsson, Mr. Nils August",Total,22.0,Southampton,1
+1096,Survived,3,3.0933333333333333,"Hirvonen, Miss. Hildur E",Total,2.0,Southampton,1
+1097,Perished,3,3.0685714285714285,"Goodwin, Master. Harold Victor",Total,9.0,Southampton,1
+1098,Perished,3,3.0,"Rouse, Mr. Richard Henry",Total,50.0,Southampton,1
+1099,Survived,3,3.0,"Turkula, Mrs. (Hedwig)",Total,63.0,Southampton,1
+1100,Survived,1,1.03,"Bishop, Mr. Dickinson H",Total,25.0,Cherbourg,1
+1101,Survived,1,1.1125,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Total,35.0,Southampton,1
+1102,Perished,1,1.0750000000000002,"Kent, Mr. Edward Austin",Total,58.0,Cherbourg,1
+1103,Perished,3,3.132,"Somerton, Mr. Francis William",Total,30.0,Southampton,1
+1104,Survived,3,3.0914285714285716,"Coutts, Master. Eden Leslie ""Neville""",Total,9.0,Southampton,1
+1105,Perished,3,3.2125,"Windelov, Mr. Einar",Total,21.0,Southampton,1
+1106,Perished,1,1.0,"Molson, Mr. Harry Markland",Total,55.0,Southampton,1
+1107,Perished,1,1.04,"Artagaveytia, Mr. Ramon",Total,71.0,Cherbourg,1
+1108,Perished,3,3.2337499999999997,"Stanley, Mr. Edward Roland",Total,21.0,Southampton,1
+1109,Survived,1,1.0533333333333335,"Eustis, Miss. Elizabeth Mussey",Total,54.0,Cherbourg,1
+1110,Perished,1,1.06,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Total,25.0,Southampton,1
+1111,Perished,3,3.1516666666666664,"Svensson, Mr. Olof",Total,24.0,Southampton,1
+1112,Perished,3,3.0914285714285716,"Calic, Mr. Petar",Total,17.0,Southampton,1
+1113,Perished,3,3.255,"Canavan, Miss. Mary",Total,21.0,Queesntown,1
+1114,Perished,3,3.04,"Laitinen, Miss. Kristina Sofia",Total,37.0,Southampton,1
+1115,Survived,1,1.03,"Maioni, Miss. Roberta",Total,16.0,Southampton,1
+1116,Perished,1,1.0266666666666666,"Penasco y Castellana, Mr. Victor de Satode",Total,18.0,Cherbourg,1
+1117,Survived,2,2.06,"Quick, Mrs. Frederick Charles (Jane Richards)",Total,33.0,Southampton,1
+1118,Perished,3,3.2181818181818183,"Olsen, Mr. Henry Margido",Total,28.0,Southampton,1
+1119,Survived,3,3.1723076923076925,"Lang, Mr. Fang",Total,26.0,Southampton,1
+1120,Survived,3,3.176,"Daly, Mr. Eugene Patrick",Total,29.0,Queesntown,1
+1121,Survived,1,1.045,"McGough, Mr. James Robert",Total,36.0,Southampton,1
+1122,Survived,1,1.08,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Total,54.0,Cherbourg,1
+1123,Perished,3,3.1733333333333333,"Coleff, Mr. Satio",Total,24.0,Southampton,1
+1124,Perished,1,1.05,"Walker, Mr. William Anderson",Total,47.0,Southampton,1
+1125,Survived,2,2.1333333333333333,"Lemore, Mrs. (Amelia Milley)",Total,34.0,Southampton,1
+1126,Survived,2,2.14,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Total,36.0,Southampton,1
+1127,Perished,3,3.0872727272727274,"Pavlovic, Mr. Stefo",Total,32.0,Southampton,1
+1128,Survived,1,1.072,"Perreault, Miss. Anne",Total,30.0,Southampton,1
+1129,Perished,3,3.3157894736842106,"Vovk, Mr. Janko",Total,22.0,Southampton,1
+1130,Survived,1,1.06,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Total,44.0,Cherbourg,1
+1131,Perished,3,3.04,"Farrell, Mr. James",Total,40.5,Queesntown,1
+1132,Survived,2,2.0533333333333332,"Ridsdale, Miss. Lucy",Total,50.0,Southampton,1
+1133,Perished,3,3.048,"Salonen, Mr. Johan Werner",Total,39.0,Southampton,1
+1134,Perished,2,2.0700000000000003,"Hocking, Mr. Richard George",Total,23.0,Southampton,1
+1135,Survived,2,2.04,"Quick, Miss. Phyllis May",Total,2.0,Southampton,1
+1136,Perished,3,3.1142857142857143,"Elias, Mr. Joseph Jr",Total,17.0,Cherbourg,1
+1137,Perished,3,3.154,"Cacic, Miss. Marija",Total,30.0,Southampton,1
+1138,Survived,2,2.0,"Hart, Miss. Eva Miriam",Total,7.0,Southampton,1
+1139,Perished,1,1.0750000000000002,"Butt, Major. Archibald Willingham",Total,45.0,Southampton,1
+1140,Survived,1,1.096,"LeRoy, Miss. Bertha",Total,30.0,Cherbourg,1
+1141,Survived,1,1.0750000000000002,"Frolicher, Miss. Hedwig Margaritha",Total,22.0,Cherbourg,1
+1142,Survived,1,1.0675,"Crosby, Miss. Harriet R",Total,36.0,Southampton,1
+1143,Perished,3,3.1142857142857143,"Andersson, Miss. Ingeborg Constanzia",Total,9.0,Southampton,1
+1144,Perished,3,3.0300000000000002,"Andersson, Miss. Sigrid Elisabeth",Total,11.0,Southampton,1
+1145,Survived,2,2.0533333333333332,"Beane, Mr. Edward",Total,32.0,Southampton,1
+1146,Perished,1,1.0750000000000002,"Douglas, Mr. Walter Donald",Total,50.0,Cherbourg,1
+1147,Perished,1,1.04,"Nicholson, Mr. Arthur Ernest",Total,64.0,Southampton,1
+1148,Survived,2,2.12,"Beane, Mrs. Edward (Ethel Clarke)",Total,19.0,Southampton,1
+1149,Perished,3,3.0914285714285716,"Goldsmith, Mr. Frank John",Total,33.0,Southampton,1
+1150,Survived,2,2.04,"Davies, Master. John Morgan Jr",Total,8.0,Southampton,1
+1151,Survived,1,1.03,"Thayer, Mr. John Borland Jr",Total,17.0,Cherbourg,1
+1152,Perished,2,2.048,"Sharp, Mr. Percival James R",Total,27.0,Southampton,1
+1153,Survived,3,3.336842105263158,"Leeni, Mr. Fahim (""Philip Zenni"")",Total,22.0,Cherbourg,1
+1154,Survived,3,3.357894736842105,"Ohman, Miss. Velin",Total,22.0,Southampton,1
+1155,Perished,1,1.03,"Wright, Mr. George",Total,62.0,Southampton,1
+1156,Survived,1,1.025,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Total,48.0,Cherbourg,1
+1157,Survived,1,1.0,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Total,39.0,Southampton,1
+1158,Survived,3,3.048,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Total,36.0,Southampton,1
+1159,Perished,3,3.075,"Sivic, Mr. Husein",Total,40.0,Southampton,1
+1160,Perished,2,2.09,"Norman, Mr. Robert Douglas",Total,28.0,Southampton,1
+1161,Perished,3,3.195,"Davies, Mr. Alfred J",Total,24.0,Southampton,1
+1162,Perished,3,3.1723076923076925,"Stoytcheff, Mr. Ilia",Total,19.0,Southampton,1
+1163,Perished,3,3.1980000000000004,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Total,29.0,Southampton,1
+1164,Survived,3,3.1090909090909093,"Jonsson, Mr. Carl",Total,32.0,Southampton,1
+1165,Survived,2,2.0,"Harris, Mr. George",Total,62.0,Southampton,1
+1166,Survived,1,1.0,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Total,53.0,Southampton,1
+1167,Survived,1,1.0899999999999999,"Flynn, Mr. John Irwin (""Irving"")",Total,36.0,Southampton,1
+1168,Perished,3,3.1963636363636367,"Rush, Mr. Alfred George John",Total,16.0,Southampton,1
+1169,Perished,3,3.1938461538461542,"Patchett, Mr. George",Total,19.0,Southampton,1
+1170,Survived,2,2.155555555555556,"Garside, Miss. Ethel",Total,34.0,Southampton,1
+1171,Survived,1,1.025,"Silvey, Mrs. William Baird (Alice Munger)",Total,39.0,Southampton,1
+1172,Survived,3,3.130909090909091,"Jussila, Mr. Eiriik",Total,32.0,Southampton,1
+1173,Survived,2,2.046666666666667,"Christy, Miss. Julie Rachel",Total,25.0,Southampton,1
+1174,Survived,1,1.05,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Total,39.0,Cherbourg,1
+1175,Perished,2,2.0533333333333332,"Downton, Mr. William James",Total,54.0,Southampton,1
+1176,Perished,1,1.1125,"Ross, Mr. John Hugo",Total,36.0,Cherbourg,1
+1177,Survived,1,1.0533333333333335,"Taussig, Miss. Ruth",Total,18.0,Southampton,1
+1178,Perished,2,2.0,"Jarvis, Mr. John Denzil",Total,47.0,Southampton,1
+1179,Survived,1,1.03,"Frolicher-Stehli, Mr. Maxmillian",Total,60.0,Cherbourg,1
+1180,Perished,3,3.3789473684210525,"Gilinski, Mr. Eliezer",Total,22.0,Southampton,1
+1181,Perished,3,3.072,"Rintamaki, Mr. Matti",Total,35.0,Southampton,1
+1182,Survived,1,1.0533333333333335,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Total,52.0,Cherbourg,1
+1183,Perished,3,3.0300000000000002,"Elsbury, Mr. William James",Total,47.0,Southampton,1
+1184,Perished,2,2.0,"Chapman, Mr. John Henry",Total,37.0,Southampton,1
+1185,Perished,3,3.072,"Van Impe, Mr. Jean Baptiste",Total,36.0,Southampton,1
+1186,Perished,3,3.0,"Johnson, Mr. Alfred",Total,49.0,Southampton,1
+1187,Survived,1,1.05,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Total,49.0,Cherbourg,1
+1188,Survived,2,2.1333333333333333,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Total,24.0,Southampton,1
+1189,Perished,3,3.0533333333333332,"Torber, Mr. Ernst William",Total,44.0,Southampton,1
+1190,Survived,1,1.135,"Homer, Mr. Harry (""Mr E Haven"")",Total,35.0,Cherbourg,1
+1191,Perished,3,3.096,"Lindell, Mr. Edvard Bengtsson",Total,36.0,Southampton,1
+1192,Perished,3,3.176,"Karaic, Mr. Milan",Total,30.0,Southampton,1
+1193,Survived,1,1.0266666666666666,"Daniel, Mr. Robert Williams",Total,27.0,Southampton,1
+1194,Survived,2,2.04,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Total,22.0,Cherbourg,1
+1195,Survived,1,1.1,"Shutes, Miss. Elizabeth W",Total,40.0,Southampton,1
+1196,Perished,3,3.072,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Total,39.0,Southampton,1
+1197,Perished,3,3.096,"Brocklebank, Mr. William Alfred",Total,35.0,Southampton,1
+1198,Survived,2,2.155555555555556,"Herman, Miss. Alice",Total,24.0,Southampton,1
+1199,Perished,3,3.0533333333333332,"Danbom, Mr. Ernst Gilbert",Total,34.0,Southampton,1
+1200,Perished,3,3.1938461538461542,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Total,26.0,Southampton,1
+1201,Survived,2,2.0,"Becker, Miss. Marion Louise",Total,4.0,Southampton,1
+1202,Perished,2,2.04,"Gavey, Mr. Lawrence",Total,26.0,Southampton,1
+1203,Perished,3,3.0914285714285716,"Yasbeck, Mr. Antoni",Total,27.0,Cherbourg,1
+1204,Survived,1,1.0533333333333335,"Kimball, Mr. Edwin Nelson Jr",Total,42.0,Southampton,1
+1205,Survived,3,3.15,"Nakid, Mr. Sahid",Total,20.0,Cherbourg,1
+1206,Perished,3,3.27625,"Hansen, Mr. Henry Damsgaard",Total,21.0,Southampton,1
+1207,Perished,3,3.2975,"Bowen, Mr. David John ""Dai""",Total,21.0,Southampton,1
+1208,Perished,1,1.04,"Sutton, Mr. Frederick",Total,61.0,Southampton,1
+1209,Perished,2,2.0,"Kirkland, Rev. Charles Leonard",Total,57.0,Queesntown,1
+1210,Survived,1,1.03,"Longley, Miss. Gretchen Fiske",Total,21.0,Southampton,1
+1211,Perished,3,3.2153846153846155,"Bostandyeff, Mr. Guentcho",Total,26.0,Southampton,1
+1212,Survived,1,1.0,"Barkworth, Mr. Algernon Henry Wilson",Total,80.0,Southampton,1
+1213,Perished,3,3.06,"Lundahl, Mr. Johan Svensson",Total,51.0,Southampton,1
+1214,Survived,1,1.04,"Stahelin-Maeglin, Dr. Max",Total,32.0,Cherbourg,1
+1215,Perished,3,3.1371428571428575,"Skoog, Miss. Mabel",Total,9.0,Southampton,1
+1216,Survived,2,2.1125000000000003,"Davis, Miss. Mary",Total,28.0,Southampton,1
+1217,Perished,3,3.152727272727273,"Leinonen, Mr. Antti Gustaf",Total,32.0,Southampton,1
+1218,Perished,2,2.025,"Collyer, Mr. Harvey",Total,31.0,Southampton,1
+1219,Perished,3,3.026666666666667,"Panula, Mrs. Juha (Maria Emilia Ojala)",Total,41.0,Southampton,1
+1220,Perished,3,3.1714285714285713,"Jensen, Mr. Hans Peder",Total,20.0,Southampton,1
+1221,Survived,1,1.1166666666666667,"Sagesser, Mlle. Emma",Total,24.0,Cherbourg,1
+1222,Perished,3,3.1166666666666667,"Skoog, Miss. Margit Elizabeth",Total,2.0,Southampton,1
+1223,Survived,3,3.04,"Baclini, Miss. Eugenie",Total,0.75,Cherbourg,1
+1224,Survived,1,1.05,"Harper, Mr. Henry Sleeper",Total,48.0,Cherbourg,1
+1225,Perished,3,3.2153846153846155,"Cor, Mr. Liudevit",Total,19.0,Southampton,1
+1226,Survived,1,1.0533333333333335,"Simonius-Blumer, Col. Oberst Alfons",Total,56.0,Cherbourg,1
+1227,Survived,3,3.025,"Stanley, Miss. Amy Zillah Elsie",Total,23.0,Southampton,1
+1228,Survived,2,2.096,"Doling, Miss. Elsie",Total,18.0,Southampton,1
+1229,Perished,3,3.3187499999999996,"Kalvik, Mr. Johannes Halvorsen",Total,21.0,Southampton,1
+1230,Perished,3,3.128,"Hegarty, Miss. Hanora ""Nora""",Total,18.0,Queesntown,1
+1231,Perished,2,2.177777777777778,"Hickman, Mr. Leonard Mark",Total,24.0,Southampton,1
+1232,Perished,3,3.174545454545455,"Bourke, Mrs. John (Catherine)",Total,32.0,Queesntown,1
+1233,Perished,2,2.0933333333333333,"Eitemiller, Mr. George Floyd",Total,23.0,Southampton,1
+1234,Perished,1,1.1,"Newell, Mr. Arthur Webster",Total,58.0,Cherbourg,1
+1235,Survived,1,1.1,"Frauenthal, Dr. Henry William",Total,50.0,Southampton,1
+1236,Perished,3,3.1,"Badt, Mr. Mohamed",Total,40.0,Cherbourg,1
+1237,Perished,1,1.0750000000000002,"Colley, Mr. Edward Pomeroy",Total,47.0,Southampton,1
+1238,Perished,3,3.12,"Coleff, Mr. Peju",Total,36.0,Southampton,1
+1239,Survived,3,3.1928571428571426,"Lindqvist, Mr. Eino William",Total,20.0,Southampton,1
+1240,Perished,2,2.08,"Hickman, Mr. Lewis",Total,32.0,Southampton,1
+1241,Perished,2,2.0700000000000003,"Butler, Mr. Reginald Fenton",Total,25.0,Southampton,1
+1242,Perished,3,3.0,"Cook, Mr. Jacob",Total,43.0,Southampton,1
+1243,Survived,2,2.06,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Total,40.0,Southampton,1
+1244,Perished,1,1.05,"Davidson, Mr. Thornton",Total,31.0,Southampton,1
+1245,Perished,2,2.0,"Mitchell, Mr. Henry Michael",Total,70.0,Southampton,1
+1246,Survived,2,2.05,"Wilhelms, Mr. Charles",Total,31.0,Southampton,1
+1247,Perished,3,3.1493333333333333,"Edvardsson, Mr. Gustaf Hjalmar",Total,18.0,Southampton,1
+1248,Perished,3,3.0,"Sawyer, Mr. Frederick Charles",Total,24.5,Southampton,1
+1249,Survived,3,3.1706666666666665,"Turja, Miss. Anna Sofia",Total,18.0,Southampton,1
+1250,Perished,3,3.0300000000000002,"Goodwin, Mrs. Frederick (Augusta Tyler)",Total,43.0,Southampton,1
+1251,Survived,1,1.135,"Cardeza, Mr. Thomas Drake Martinez",Total,36.0,Cherbourg,1
+1252,Survived,1,1.0533333333333335,"Hassab, Mr. Hammad",Total,27.0,Cherbourg,1
+1253,Perished,3,3.214285714285714,"Olsvigen, Mr. Thor Anderson",Total,20.0,Southampton,1
+1254,Perished,3,3.0533333333333332,"Goodwin, Mr. Charles Edward",Total,14.0,Southampton,1
+1255,Perished,2,2.0,"Brown, Mr. Thomas William Solomon",Total,60.0,Southampton,1
+1256,Perished,2,2.0933333333333333,"Laroche, Mr. Joseph Philippe Lemercier",Total,25.0,Cherbourg,1
+1257,Perished,3,3.08,"Panula, Mr. Jaako Arnold",Total,14.0,Southampton,1
+1258,Perished,3,3.2369230769230772,"Dakic, Mr. Branko",Total,19.0,Southampton,1
+1259,Perished,3,3.1919999999999997,"Fischer, Mr. Eberhard Thelander",Total,18.0,Southampton,1
+1260,Survived,1,1.0,"Madill, Miss. Georgette Alexandra",Total,15.0,Southampton,1
+1261,Survived,1,1.0750000000000002,"Dick, Mr. Albert Adrian",Total,31.0,Southampton,1
+1262,Survived,3,3.0933333333333333,"Karun, Miss. Manca",Total,4.0,Cherbourg,1
+1263,Perished,3,3.13,"Saad, Mr. Khalil",Total,25.0,Cherbourg,1
+1264,Perished,1,1.06,"Weir, Col. John",Total,60.0,Southampton,1
+1265,Perished,2,2.0,"Chapman, Mr. Charles Henry",Total,52.0,Southampton,1
+1266,Perished,3,3.08,"Kelly, Mr. James",Total,44.0,Southampton,1
+1267,Perished,1,1.0750000000000002,"Thayer, Mr. John Borland",Total,49.0,Cherbourg,1
+1268,Perished,3,3.0533333333333332,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Total,42.0,Southampton,1
+1269,Survived,1,1.08,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Total,18.0,Cherbourg,1
+1270,Survived,1,1.1575,"Silverthorne, Mr. Spencer Victor",Total,35.0,Southampton,1
+1271,Perished,3,3.2133333333333334,"Barbara, Miss. Saiide",Total,18.0,Cherbourg,1
+1272,Perished,3,3.1516666666666664,"Gallagher, Mr. Martin",Total,25.0,Queesntown,1
+1273,Perished,3,3.2369230769230772,"Hansen, Mr. Henrik Juul",Total,26.0,Southampton,1
+1274,Perished,2,2.0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Total,39.0,Southampton,1
+1275,Survived,2,2.04,"Kelly, Mrs. Florence ""Fannie""",Total,45.0,Southampton,1
+1276,Survived,1,1.08,"Calderhead, Mr. Edward Pennington",Total,42.0,Southampton,1
+1277,Survived,1,1.1,"Cleaver, Miss. Alice",Total,22.0,Southampton,1
+1278,Survived,1,1.1400000000000001,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Total,24.0,Cherbourg,1
+1279,Survived,1,1.0750000000000002,"Taylor, Mr. Elmer Zebley",Total,48.0,Southampton,1
+1280,Perished,3,3.22,"Larsson, Mr. August Viktor",Total,29.0,Southampton,1
+1281,Perished,2,2.04,"Greenberg, Mr. Samuel",Total,52.0,Southampton,1
+1282,Perished,3,3.2584615384615385,"Soholt, Mr. Peter Andreas Lauritz Andersen",Total,19.0,Southampton,1
+1283,Survived,1,1.096,"Endres, Miss. Caroline Louise",Total,38.0,Cherbourg,1
+1284,Survived,2,2.072,"Troutt, Miss. Edwina Celia ""Winnie""",Total,27.0,Southampton,1
+1285,Perished,3,3.1142857142857143,"Johnson, Mr. Malkolm Joackim",Total,33.0,Southampton,1
+1286,Survived,2,2.0,"Harper, Miss. Annie Jessie ""Nina""",Total,6.0,Southampton,1
+1287,Perished,3,3.1371428571428575,"Jensen, Mr. Svend Lauritz",Total,17.0,Southampton,1
+1288,Perished,2,2.177777777777778,"Gillespie, Mr. William Henry",Total,34.0,Southampton,1
+1289,Perished,2,2.08,"Hodges, Mr. Henry Price",Total,50.0,Southampton,1
+1290,Survived,1,1.08,"Chambers, Mr. Norman Campbell",Total,27.0,Southampton,1
+1291,Perished,3,3.2357142857142858,"Oreskovic, Mr. Luka",Total,20.0,Southampton,1
+1292,Survived,2,2.1371428571428575,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Total,30.0,Southampton,1
+1293,Perished,2,2.1166666666666667,"Bryhl, Mr. Kurt Arnold Gottfrid",Total,25.0,Southampton,1
+1294,Perished,3,3.1733333333333333,"Ilmakangas, Miss. Pieta Sofia",Total,25.0,Southampton,1
+1295,Survived,1,1.03,"Allen, Miss. Elisabeth Walton",Total,29.0,Southampton,1
+1296,Perished,3,3.06,"Hassan, Mr. Houssein G N",Total,11.0,Cherbourg,1
+1297,Perished,2,2.1166666666666667,"Berriman, Mr. William John",Total,23.0,Southampton,1
+1298,Perished,2,2.14,"Troupiansky, Mr. Moses Aaron",Total,23.0,Southampton,1
+1299,Perished,3,3.04,"Williams, Mr. Leslie",Total,28.5,Southampton,1
+1300,Perished,3,3.0,"Ford, Mrs. Edward (Margaret Ann Watson)",Total,48.0,Southampton,1
+1301,Survived,1,1.18,"Lesurer, Mr. Gustave J",Total,35.0,Cherbourg,1
+1302,Perished,1,1.1575,"Cavendish, Mr. Tyrell William",Total,36.0,Southampton,1
+1303,Survived,1,1.06,"Ryerson, Miss. Susan Parker ""Suzette""",Total,21.0,Cherbourg,1
+1304,Perished,3,3.2166666666666663,"McNamee, Mr. Neal",Total,24.0,Southampton,1
+1305,Survived,3,3.0700000000000003,"Stranden, Mr. Juho",Total,31.0,Southampton,1
+1306,Perished,1,1.0,"Crosby, Capt. Edward Gifford",Total,70.0,Southampton,1
+1307,Perished,3,3.2181818181818183,"Abbott, Mr. Rossmore Edward",Total,16.0,Southampton,1
+1308,Survived,2,2.16,"Sinkkonen, Miss. Anna",Total,30.0,Southampton,1
+1309,Perished,1,1.0750000000000002,"Marvin, Mr. Daniel Warner",Total,19.0,Southampton,1
+1310,Perished,3,3.0933333333333333,"Connaghton, Mr. Michael",Total,31.0,Queesntown,1
+1311,Survived,2,2.04,"Wells, Miss. Joan",Total,4.0,Southampton,1
+1312,Survived,3,3.0,"Moor, Master. Meier",Total,6.0,Southampton,1
+1313,Perished,3,3.1371428571428575,"Vande Velde, Mr. Johannes Joseph",Total,33.0,Southampton,1
+1314,Perished,3,3.05,"Jonkoff, Mr. Lalio",Total,23.0,Southampton,1
+1315,Survived,2,2.04,"Herman, Mrs. Samuel (Jane Laver)",Total,48.0,Southampton,1
+1316,Survived,2,2.0,"Hamalainen, Master. Viljo",Total,0.67,Southampton,1
+1317,Perished,3,3.24,"Carlsson, Mr. August Sigfrid",Total,28.0,Southampton,1
+1318,Perished,2,2.12,"Bailey, Mr. Percy Andrew",Total,18.0,Southampton,1
+1319,Perished,3,3.08,"Theobald, Mr. Thomas Leonard",Total,34.0,Southampton,1
+1320,Survived,1,1.0266666666666666,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Total,33.0,Southampton,1
+1321,Perished,3,3.0533333333333332,"Nirva, Mr. Iisakki Antino Aijo",Total,41.0,Southampton,1
+1322,Survived,3,3.257142857142857,"Barah, Mr. Hanna Assi",Total,20.0,Cherbourg,1
+1323,Survived,1,1.18,"Carter, Mrs. William Ernest (Lucile Polk)",Total,36.0,Southampton,1
+1324,Perished,3,3.24,"Eklund, Mr. Hans Linus",Total,16.0,Southampton,1
+1325,Survived,1,1.03,"Hogeboom, Mrs. John C (Anna Andrews)",Total,51.0,Southampton,1
+1326,Perished,3,3.0,"Mangan, Miss. Mary",Total,30.5,Queesntown,1
+1327,Perished,3,3.1963636363636367,"Gronnestad, Mr. Daniel Danielsen",Total,32.0,Southampton,1
+1328,Perished,3,3.2383333333333333,"Lievens, Mr. Rene Aime",Total,24.0,Southampton,1
+1329,Perished,3,3.04,"Jensen, Mr. Niels Peder",Total,48.0,Southampton,1
+1330,Perished,2,2.04,"Mack, Mrs. (Mary)",Total,57.0,Southampton,1
+1331,Survived,2,2.08,"Hocking, Mrs. Elizabeth (Eliza Needs)",Total,54.0,Southampton,1
+1332,Perished,3,3.2346666666666666,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Total,18.0,Southampton,1
+1333,Survived,3,3.06,"Emanuel, Miss. Virginia Ethel",Total,5.0,Southampton,1
+1334,Survived,1,1.0,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Total,43.0,Southampton,1
+1335,Survived,3,3.0,"Ayoub, Miss. Banoura",Total,13.0,Cherbourg,1
+1336,Survived,1,1.06,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Total,17.0,Southampton,1
+1337,Perished,1,1.06,"Long, Mr. Milton Clyde",Total,29.0,Southampton,1
+1338,Perished,3,3.195,"Ali, Mr. William",Total,25.0,Southampton,1
+1339,Perished,3,3.2166666666666663,"Harmer, Mr. Abraham (David Lishin)",Total,25.0,Southampton,1
+1340,Survived,3,3.256,"Sjoblom, Miss. Anna Sofia",Total,18.0,Southampton,1
+1341,Perished,3,3.04,"Rice, Master. George Hugh",Total,8.0,Queesntown,1
+1342,Survived,3,3.1,"Dean, Master. Bertram Vere",Total,1.0,Southampton,1
+1343,Perished,1,1.04,"Guggenheim, Mr. Benjamin",Total,46.0,Cherbourg,1
+1344,Perished,2,2.0,"Gaskell, Mr. Alfred",Total,16.0,Southampton,1
+1345,Perished,3,3.2383333333333333,"Dantcheff, Mr. Ristiu",Total,25.0,Southampton,1
+1346,Perished,2,2.0300000000000002,"Otter, Mr. Richard",Total,39.0,Southampton,1
+1347,Survived,1,1.1,"Leader, Dr. Alice (Farnham)",Total,49.0,Southampton,1
+1348,Survived,3,3.1166666666666667,"Osman, Mrs. Mara",Total,31.0,Southampton,1
+1349,Perished,3,3.1980000000000004,"Ibrahim Shawah, Mr. Yousseff",Total,30.0,Cherbourg,1
+1350,Perished,3,3.22,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Total,30.0,Southampton,1
+1351,Perished,2,2.2,"Ponesell, Mr. Martin",Total,34.0,Southampton,1
+1352,Survived,2,2.075,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Total,31.0,Southampton,1
+1353,Survived,1,1.0,"Carter, Master. William Thornton II",Total,11.0,Southampton,1
+1354,Survived,3,3.0,"Thomas, Master. Assad Alexander",Total,0.42,Cherbourg,1
+1355,Survived,3,3.1142857142857143,"Hedman, Mr. Oskar Arvid",Total,27.0,Southampton,1
+1356,Perished,3,3.14,"Johansson, Mr. Karl Johan",Total,31.0,Southampton,1
+1357,Perished,1,1.0750000000000002,"Andrews, Mr. Thomas Jr",Total,39.0,Southampton,1
+1358,Perished,3,3.277333333333333,"Pettersson, Miss. Ellen Natalia",Total,18.0,Southampton,1
+1359,Perished,2,2.06,"Meyer, Mr. August",Total,39.0,Southampton,1
+1360,Survived,1,1.0533333333333335,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Total,33.0,Southampton,1
+1361,Perished,3,3.2584615384615385,"Alexander, Mr. William",Total,26.0,Southampton,1
+1362,Perished,3,3.096,"Lester, Mr. James",Total,39.0,Southampton,1
+1363,Perished,2,2.06,"Slemen, Mr. Richard James",Total,35.0,Southampton,1
+1364,Perished,3,3.04,"Andersson, Miss. Ebba Iris Alfrida",Total,6.0,Southampton,1
+1365,Perished,3,3.04,"Tomlin, Mr. Ernest Portage",Total,30.5,Southampton,1
+1366,Perished,3,3.075,"Heininen, Miss. Wendla Maria",Total,23.0,Southampton,1
+1367,Perished,2,2.1,"Mallet, Mr. Albert",Total,31.0,Cherbourg,1
+1368,Perished,3,3.06,"Holm, Mr. John Fredrik Alexander",Total,43.0,Southampton,1
+1369,Perished,3,3.04,"Skoog, Master. Karl Thorsten",Total,10.0,Southampton,1
+1370,Survived,1,1.08,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Total,52.0,Southampton,1
+1371,Survived,3,3.1371428571428575,"Lulic, Mr. Nikola",Total,27.0,Southampton,1
+1372,Perished,1,1.12,"Reuchlin, Jonkheer. John George",Total,38.0,Southampton,1
+1373,Survived,3,3.16,"Moor, Mrs. (Beila)",Total,27.0,Southampton,1
+1374,Perished,3,3.14,"Panula, Master. Urho Abraham",Total,2.0,Southampton,1
+1375,Survived,2,2.04,"Mallet, Master. Andre",Total,1.0,Cherbourg,1
+1376,Survived,1,1.06,"Stone, Mrs. George Nelson (Martha Evelyn)",Total,62.0,,1
+1377,Survived,3,3.0533333333333332,"Yasbeck, Mrs. Antoni (Selini Alexander)",Total,15.0,Cherbourg,1
+1378,Survived,2,2.04,"Richards, Master. George Sibley",Total,0.83,Southampton,1
+1379,Perished,3,3.1,"Augustsson, Mr. Albert",Total,23.0,Southampton,1
+1380,Perished,3,3.2986666666666666,"Allum, Mr. Owen George",Total,18.0,Southampton,1
+1381,Survived,1,1.1,"Compton, Miss. Sara Rebecca",Total,39.0,Cherbourg,1
+1382,Perished,3,3.34,"Pasic, Mr. Jakob",Total,21.0,Southampton,1
+1383,Survived,3,3.2181818181818183,"Chip, Mr. Chang",Total,32.0,Southampton,1
+1384,Perished,3,3.2785714285714285,"Alhomaki, Mr. Ilmari Rudolf",Total,20.0,Southampton,1
+1385,Perished,2,2.04,"Mudd, Mr. Thomas Charles",Total,16.0,Southampton,1
+1386,Survived,1,1.12,"Serepeca, Miss. Augusta",Total,30.0,Cherbourg,1
+1387,Perished,3,3.0,"Lemberopolous, Mr. Peter L",Total,34.5,Cherbourg,1
+1388,Perished,3,3.16,"Culumovic, Mr. Jeso",Total,17.0,Southampton,1
+1389,Perished,3,3.08,"Abbing, Mr. Anthony",Total,42.0,Southampton,1
+1390,Perished,3,3.12,"Markoff, Mr. Marin",Total,35.0,Cherbourg,1
+1391,Perished,2,2.1350000000000002,"Harper, Rev. John",Total,28.0,Southampton,1
+1392,Perished,3,3.1166666666666667,"Andersson, Master. Sigvard Harald Elias",Total,4.0,Southampton,1
+1393,Perished,3,3.0,"Svensson, Mr. Johan",Total,74.0,Southampton,1
+1394,Perished,3,3.16,"Boulos, Miss. Nourelain",Total,9.0,Cherbourg,1
+1395,Survived,1,1.06,"Lines, Miss. Mary Conover",Total,16.0,Southampton,1
+1396,Perished,2,2.04,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Total,44.0,Southampton,1
+1397,Survived,3,3.32,"Aks, Mrs. Sam (Leah Rosen)",Total,18.0,Southampton,1
+1398,Survived,1,1.1,"Wick, Mrs. George Dennick (Mary Hitchcock)",Total,45.0,Southampton,1
+1399,Survived,1,1.06,"Daly, Mr. Peter Denis ",Total,51.0,Southampton,1
+1400,Survived,3,3.26,"Baclini, Mrs. Solomon (Latifa Qurban)",Total,24.0,Cherbourg,1
+1401,Perished,3,3.08,"Hansen, Mr. Claus Peter",Total,41.0,Southampton,1
+1402,Perished,2,2.08,"Giles, Mr. Frederick Edward",Total,21.0,Southampton,1
+1403,Survived,1,1.1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Total,48.0,Southampton,1
+1404,Perished,2,2.2,"Gill, Mr. John William",Total,24.0,Southampton,1
+1405,Survived,2,2.1,"Bystrom, Mrs. (Karolina)",Total,42.0,Southampton,1
+1406,Survived,2,2.096,"Duran y More, Miss. Asuncion",Total,27.0,Cherbourg,1
+1407,Perished,1,1.1,"Roebling, Mr. Washington Augustus II",Total,31.0,Southampton,1
+1408,Survived,3,3.14,"Johnson, Master. Harold Theodor",Total,4.0,Southampton,1
+1409,Perished,3,3.2800000000000002,"Balkic, Mr. Cerin",Total,26.0,Southampton,1
+1410,Survived,1,1.1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Total,47.0,Southampton,1
+1411,Perished,1,1.08,"Carlsson, Mr. Frans Olof",Total,33.0,Southampton,1
+1412,Perished,3,3.06,"Vander Cruyssen, Mr. Victor",Total,47.0,Southampton,1
+1413,Survived,2,2.1575,"Abelson, Mrs. Samuel (Hannah Wizosky)",Total,28.0,Cherbourg,1
+1414,Survived,3,3.08,"Najib, Miss. Adele Kiamie ""Jane""",Total,15.0,Cherbourg,1
+1415,Perished,3,3.3,"Gustafsson, Mr. Alfred Ossian",Total,20.0,Southampton,1
+1416,Perished,3,3.2800000000000002,"Petroff, Mr. Nedelio",Total,19.0,Southampton,1
+1417,Survived,1,1.08,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Total,56.0,Cherbourg,1
+1418,Survived,2,2.14,"Shelley, Mrs. William (Imanita Parrish Hall)",Total,25.0,Southampton,1
+1419,Perished,3,3.16,"Markun, Mr. Johann",Total,33.0,Southampton,1
+1420,Perished,3,3.4,"Dahlberg, Miss. Gerda Ulrika",Total,22.0,Southampton,1
+1421,Perished,2,2.18,"Banfield, Mr. Frederick James",Total,28.0,Southampton,1
+1422,Perished,3,3.26,"Sutehall, Mr. Henry Jr",Total,25.0,Southampton,1
+1423,Perished,3,3.12,"Rice, Mrs. William (Margaret Norton)",Total,39.0,Queesntown,1
+1424,Perished,2,2.12,"Montvila, Rev. Juozas",Total,27.0,Southampton,1
+1425,Survived,1,1.1,"Graham, Miss. Margaret Edith",Total,19.0,Southampton,1
+1426,Survived,1,1.04,"Behr, Mr. Karl Howell",Total,26.0,Cherbourg,1
+1427,Perished,3,3.24,"Dooley, Mr. Patrick",Total,32.0,Queesntown,1
