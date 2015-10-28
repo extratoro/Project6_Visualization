@@ -5,6 +5,7 @@ The main explanatory variables for death are:
 + gender
 + Passenger class
 + Age
+The visualization especially focus on survival by generder and passenger class.
 
 # Design
 ---
