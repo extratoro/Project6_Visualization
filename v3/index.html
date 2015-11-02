@@ -1,0 +1,280 @@
+<html>
+<div id="chartContainer">
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+    <script type="text/javascript">
+        var svg = dimple.newSvg("#chartContainer", 1236, 700);
+        d3.csv("groupby.csv", function(data) {
+
+            // Main chart
+            var myChart = new dimple.chart(svg, data);
+            myChart.setBounds(150, 60, 1020, 600);
+
+            // y axis with ratio
+            var yAxis = myChart.addPctAxis("y", "Count");
+
+            // Sex & survival for X. axis labels will be generated aferwards
+            var xAxis = myChart.addCategoryAxis("x", ["Class", "Sex"]);
+            xAxis.title = null;
+
+            // Serie with Sex and Survival to differenciate the bars and get values for mini chart. Order to get color correctly.
+            var mySerie = myChart.addSeries(["Sex", "Survival"], dimple.plot.bar);
+            mySerie.addOrderRule([
+                ['total', 'Survived'],
+                ['female', 'Survived'],
+                ['male', 'Survived'],
+                ['total', 'Perished'],
+                ['female', 'Perished'],
+                ['male', 'Perished']
+            ]);
+            mySerie.aggregate = dimple.aggregateMethod.sum;
+
+            // Call on click
+            mySerie.addEventHandler("click", onClick);
+
+            //Add legend
+            var myLegend = myChart.addLegend('96%', '8%', '5%', '5%', "right");
+
+            svg.append("text")
+                .attr("x", 1172)
+                .attr("y", 64)
+                .style("text-anchor", "left")
+                .style("font-family", "arial")
+                .style("font-size", "11px")
+                .text("Survival");
+
+            // Draw main chart, resize x axis labels and add survival labels  
+            myChart.draw();
+
+            d3.selectAll('g.dimple-axis-x')
+                .selectAll('g.tick')
+                .selectAll('text')
+                .style("font-size", "12px")
+                .attr('y', '20');
+
+            d3.selectAll('g.dimple-axis-x')
+                .selectAll('g.tick')
+                .append('text')
+                .attr('x', '240')
+                .attr('y', '15')
+                .text('Female');
+
+            d3.selectAll('g.dimple-axis-x')
+                .selectAll('g.tick')
+                .append('text')
+                .attr('x', '160')
+                .attr('y', '15')
+                .text('Male');
+
+            d3.selectAll('g.dimple-axis-x')
+                .selectAll('g.tick')
+                .append('text')
+                .attr('x', '70')
+                .attr('y', '15')
+                .text('Total');
+
+            //Add main chart title and information
+            svg.append("text")
+                .attr("x", myChart._xPixels() + myChart._widthPixels() / 2)
+                .attr("y", myChart._yPixels() - 40)
+                .style("text-anchor", "middle")
+                .style("font-family", "arial")
+                .style("font-weight", "bold")
+                .text("Titanic Passengers Survival");
+            svg.append("text")
+                .attr("x", myChart._xPixels() + myChart._widthPixels() / 2)
+                .attr("y", myChart._yPixels() - 20)
+                .style("text-anchor", "middle")
+                .style("font-family", "arial")
+                .text("Click to display age distribution by sex and class. Reclick to hide.");
+
+            // Define json for display mini graphs
+
+            var mini = {
+                'male-Class 1': false,
+                'male-Class 2': false,
+                'male-Class 3': false,
+                'female-Class 1': false,
+                'female-Class 2': false,
+                'female-Class 3': false
+            };
+
+
+            // Event to handle click
+            function onClick(e) {
+
+                // Filter the data for the selected bar part
+                var hoverData = dimple.filterData(data, "Sex", e.seriesValue[0]);
+                hoverData = dimple.filterData(hoverData, "Class", e.xValue);
+
+
+                //Define type related to mini json
+                var type = String(e.seriesValue[0] + '-' + e.xValue)
+
+                if (mini[type] === true) {
+
+                    d3.selectAll('g.mini').remove();
+                    mini[type] = false;
+                } else {
+                    d3.selectAll('g.mini').remove();
+                    mini[type] = true;
+
+
+                    // Get the properties of the selected shape
+                    var cx = parseFloat(e.selectedShape.attr("x")),
+                        cy = parseFloat(e.selectedShape.attr("y")),
+                        fill = e.selectedShape.attr("fill"),
+                        stroke = e.selectedShape.attr("stroke");
+
+                    // Set the size and position of the popup
+                    var width = 210,
+                        height = 150,
+                        x = (cx + width + 38 < svg.attr("width") ?
+                            cx + 30 :
+                            cx - width - 30);
+                    y = (cy - height < 60 ?
+                        60 :
+                        cy - height - 30);
+
+                    // Fade the popup fill mixing the shape fill with white
+                    var popupFillColor = d3.rgb(
+                        d3.rgb("white")
+                    );
+
+                    // Create a group for the popup objects. Add type class for easy selection
+                    popup = svg.append("g");
+                    popup.classed("mini", true);
+                    popup.classed(type, true);
+
+                    // Add a rectangle surrounding the chart. Add type class for easy selection
+                    popup
+                        .append("rect")
+                        .attr("x", x + 10)
+                        .attr("y", y - 5)
+                        .attr("width", width + 48)
+                        .attr("height", height + 70)
+                        .attr("rx", 5)
+                        .attr("ry", 5)
+                        .attr("type", "mini")
+                        .attr("type", type)
+                        .style("fill", popupFillColor)
+                        .style("stroke", stroke)
+                        .style("stroke-width", 2);
+
+                    // Add the series value text and legend option
+                    popup
+                        .append("text")
+                        .attr("x", x + 13)
+                        .attr("y", y + 10)
+                        .attr("type", "mini")
+                        .text('Age of ' + String(e.seriesValue[0] + ' in ' + e.xValue))
+                        .style("font-family", "sans-serif")
+                        .style("font-size", 10)
+                        .style("fill", stroke);
+
+                    popup
+                        .append("text")
+                        .attr("x", x + 13)
+                        .attr("y", y + 19)
+                        .attr("type", "mini")
+                        .attr("type", type)
+                        .text('Click legend to show/hide')
+                        .style("font-family", "sans-serif")
+                        .style("font-size", 8)
+                        .style("fill", stroke);
+
+
+                    // Create a new mini chart with age as x axis and count as y
+                    tipChart = new dimple.chart(svg, hoverData);
+
+                    tipChart.setBounds(x + 48, y + 30, width, height);
+                    var xTip = tipChart.addMeasureAxis("x", "Age");
+                    var yTip = tipChart.addMeasureAxis("y", "Count");
+                    yTip.ticks = 5;
+
+                    //Necessity to add age to series to have correct rendering on the x  axis
+                    var popUpSeries = tipChart.addSeries(["Age", "Survival"], dimple.plot.line);
+                    //interpolation for histogram like rendering
+                    popUpSeries.interpolation = 'step-after';
+                    popUpSeries.lineWeight = 0.8;
+                    popUpSeries.aggregate = dimple.aggregateMethod.sum;
+
+                    // Set the color to the stroke color of the selected node
+                    tipChart.assignColor('Survived', 'blue', 'blue', 0.45);
+                    tipChart.assignColor('Perished', 'red', 'red', 0.45);
+                    var tipLegend = tipChart.addLegend(x + 200, y - 8, '30px', '30px');
+
+                    // Draw the mini chart
+
+                    tipChart.draw();
+
+                    //Resize text
+                    tipLegend.shapes.selectAll("text")
+                        .style("font-size", 8);
+                    tipLegend.shapes.selectAll("rect")
+                        .attr("width", 9);
+                    xTip.shapes.selectAll("text")
+                        .style("font-size", 8);
+                    yTip.shapes.selectAll("text")
+                        .style("font-size", 8);
+
+                    tipChart._group.selectAll('.dimple-title')
+                        .style("font-size", 8);
+
+                    //Add type class for selection afterwards and set mini json key to true
+                    //tipChart._group.classed(type,true);
+                    tipChart._group.classed("mini", true);
+                    tipChart._group.classed(type, true);
+                    //mini[type] = true;
+
+                    //delink legend
+                    tipChart.legends = [];
+
+                }
+
+
+                // Get a unique list of values to use when filtering
+                var filterValues = ["Survived", "Perished"];
+
+                // Get all the rectangles from our now orphaned legend
+                d3.selectAll('.mini').selectAll('.dimple-legend-key')
+                    // Add a click event to legend
+                    .on("click", function(e) {
+                        // Get legend label and initializing variables
+                        var lowSurvival = e.aggField.slice(-1)[0].toLowerCase();
+                        var hide = false;
+                        var newFilters = [];
+                        // If the filters contain the clicked shape hide it
+                        filterValues.forEach(function(f) {
+                            if (f === e.aggField.slice(-1)[0]) {
+
+                                hide = true;
+                            } else {
+
+                                newFilters.push(f);
+                            }
+                        });
+                        // Hide the shape or show it
+                        if (hide) {
+                            d3.selectAll('.mini').selectAll('rect.dimple-' + lowSurvival).style("opacity", 0.2);
+                            d3.selectAll('.mini').selectAll('#dimple-' + lowSurvival).attr('opacity', 0.2);
+                        } else {
+                            newFilters.push(e.aggField.slice(-1)[0]);
+                            d3.selectAll('.mini').selectAll('rect.dimple-' + lowSurvival).style("opacity", 0.45);
+                            d3.selectAll('.mini').selectAll('#dimple-' + lowSurvival).attr('opacity', 0.45);
+                        }
+                        // Update the filters
+                        filterValues = newFilters;
+
+
+                    });
+
+
+            };
+
+
+        });
+    </script>
+</div>
+
+</html>
